@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- Las transferencias de los derechos derivados de la concesión, que se hayan pactado antes de la publicación de esta Ley apegados a lo ordenado en los artículos 56 y 57 de la Ley de Tránsito y Transportes, deberán informarlo a la Dirección de la Comisión Técnica de Transporte y Vialidad a la fecha en que esta Ley entre en vigor.
