@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- El Tribunal de Conciliación y Arbitraje a que se refiere la presente Ley expedirá un reglamento que regule y adecue su organización y funciones en los términos del presente ordenamiento.
