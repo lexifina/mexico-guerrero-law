@@ -1,0 +1,1 @@
+Artículo Segundo: Se abroga la Ley de Vivienda Social y de Fraccionamientos Populares de fecha 23 de mayo de 1989 y publicada el 6 de junio del mismo año en el Periódico Oficial del Gobierno del Estado.
