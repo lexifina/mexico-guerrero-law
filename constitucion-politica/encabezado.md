@@ -1,7 +1,6 @@
-LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ADVERSARIAL EN EL ESTADO DE AGUASCALIENTES
-N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DE LA LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de abril de 2010.
-LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
-La LX Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
-Decreto Número 388
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
+El Ciudadano General Silvestre G. Mariscal, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a los habitantes del mismo sabed: Que, por la Secretaría del H. Congreso del Estado, se me ha comunicado lo siguiente:
+El XXIII Congreso Constitucional del Estado Libre y Soberano de Guerrero, en nombre del pueblo que representa y en su carácter de Constituyente, de conformidad con lo dispuesto en el Decreto número 6 del Gobierno Provisional del propio Estado, de fecha 16 de mayo del año en curso de 1917, ha tenido a bien expedir, la siguiente:
+(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 1950)
+Constitución Política del Estado Libre y Soberano de Guerrero.
