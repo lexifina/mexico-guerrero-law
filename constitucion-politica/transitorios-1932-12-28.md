@@ -1,3 +1,0 @@
-P.O. 28 DE DICIEMBRE DE 1932.
-DECRETO NUMERO 79, DE LA LEY QUE ESTABLECE LA AUTONOMIA MUNICIPAL Y REFORMA A LA CONSTITUCION POLITICA DEL ESTADO.
-El presente Decreto comenzará a surtir sus efectos a partir del día primero de enero de 1933.
