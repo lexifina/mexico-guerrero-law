@@ -14,3 +14,4 @@ El Gobernador Constitucional del Estado de Guerrero.
 Rúbrica.
 El Secretario de Gobierno.
 Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
