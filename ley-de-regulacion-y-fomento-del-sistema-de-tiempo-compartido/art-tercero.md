@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- En un plazo no mayor de noventa días a partir de la publicación de esta Ley, habrá de quedar formalmente instalada la Comisión Técnica de Vigilancia del Sistema de Tiempo Compartido y la Oficina.

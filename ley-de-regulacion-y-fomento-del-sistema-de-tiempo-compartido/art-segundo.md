@@ -1,0 +1,2 @@
+ARTICULO SEGUNDO.- Se otorga un plazo de un año a partir de que entre en vigor esta Ley, para que todos los inmuebles y desarrollos, comprendidos en el presente ordenamiento, se sujeten a lo establecido por la misma, por tanto, deberán constituir formalmente el Sistema de Tiempo Compartido correspondiente.
+La falta de cumplimiento de lo previsto en el párrafo anterior, se sancionará con multa de hasta quinientas veces el salario mínimo por cada año en que se incumpla el contenido de este precepto, sin perjuicio de la aplicación de las otras sanciones que prevea esta Ley.
