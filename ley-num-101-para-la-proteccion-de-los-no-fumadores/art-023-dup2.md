@@ -1,0 +1,1 @@
+ARTICULO 23.- Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por diez veces el salario mínimo diario general vigente en la Región de que se trate, atendiendo las reglas de calificación que se establecen en el Artículo 16 de la presente Ley.

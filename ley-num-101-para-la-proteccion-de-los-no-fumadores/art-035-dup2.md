@@ -1,0 +1,1 @@
+ARTICULO 35.- La autoridad competente dictará y notificará la resolución que corresponda, debidamente fundada y motivada, en un plazo de cinco días hábiles, misma que deberá notificar al interesado personalmente. Si transcurrido el plazo no se ha notificado la resolución que corresponda, se entenderá que el recurso ha sido resuelto en sentido favorable al recurrente.

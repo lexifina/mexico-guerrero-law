@@ -1,0 +1,1 @@
+ARTICULO 32.- La inconformidad deberá presentarse por escrito ante la autoridad que hubiere dictado la resolución recurrida, dentro de los quince días hábiles siguientes a partir de la notificación del acto que se reclama y se suspenderán los efectos de la resolución, cuando éstos no se hayan consumado, siempre que no se altere el orden público o el interés social.

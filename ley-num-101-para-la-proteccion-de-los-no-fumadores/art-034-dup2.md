@@ -1,0 +1,2 @@
+ARTICULO 34.- Al recibir el escrito de interposición del recurso, la autoridad del conocimiento, verificará si éste fue interpuesto en tiempo, admitiéndolo a trámite o desechándolo.
+Para el caso de que lo admita, decretará la suspensión si fuese procedente y desahogará las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de la admisión.
