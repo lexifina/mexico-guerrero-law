@@ -1,0 +1,2 @@
+(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)
+ARTICULO 21-BIS.- A fin de que los diferentes sectores de la comunidad estén conscientes de la responsabilidad que les corresponde en el bienestar colectivo, ya sea como peatones, pasajeros, conductores de vehículos automotores, concesionarios o permisionarios, las autoridades de Tránsito y Transporte y Vialidad del Estado, así como las del Municipio en la esfera de su competencia, deberán fomentar de manera permanente la preparación y difusión de campañas y cursos de seguridad educativa vial.

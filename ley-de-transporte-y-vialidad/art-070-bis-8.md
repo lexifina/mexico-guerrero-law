@@ -1,0 +1,2 @@
+(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)
+ARTICULO 70-BIS 8.- Sin perjuicio de imposición de las sanciones que correspondan, los vehículos cuyos conductores cometan las infracciones a las disposiciones previstas en los artículos 110, 111 y 112, serán retirados de la circulación y remitidos a un depósito de vehículos, siendo necesarios para su devolución el pago de la multa y derechos correspondientes.

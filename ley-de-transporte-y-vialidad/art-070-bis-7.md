@@ -1,0 +1,2 @@
+(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)
+ARTICULO 70-BIS 7.- Para efectos de prevención y control de la contaminación ambiental originada por la emisión de humos provenientes del escape de vehículos en circulación y que utilizan diesel como combustible, se estará a lo dispuesto en las Normas Técnicas Ecológicas NOM-CCAT-007 ECOL/1993; NOM-CCAT-008 ECOL/1993, de la Secretaría de Desarrollo Social, publicadas el 22 de octubre de 1993 en el Diario Oficial de la Federación.

@@ -1,0 +1,3 @@
+(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)
+ARTICULO 70-BIS 9.- Las presentes disposiciones, se aplicarán independientemente de las medidas que para limitar o suspender la circulación de vehículos automotores, incluidos aquellos destinados al Servicio Público Federal, aplique la autoridad competente, cuando se presente una situación de contingencia ambiental o de emergencia ecológica.
+Sin perjuicio de lo anterior, la autoridad competente podrá aplicar aquellas medidas tendientes a reducir los niveles de emisión de los vehículos automotores, aún cuando no se trate de situaciones de contingencia ambiental o de emergencia ecológica.
