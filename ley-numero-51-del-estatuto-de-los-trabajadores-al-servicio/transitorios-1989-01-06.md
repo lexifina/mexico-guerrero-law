@@ -1,0 +1,5 @@
+P.O. 6 DE ENERO DE 1989.
+ARTICULO PRIMERO.- Esta Ley entrará en vigor treinta días después de que se publique en el Periódico Oficial.
+ARTICULO SEGUNDO.- Se deroga la Ley número 51 del Estatuto de los Trabajadores al Servicio del Estado, de los Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado de Guerrero de fecha 21 de abril de 1976, por lo que hace a los servidores públicos de la administración pública centralizada y paraestatal, del Poder Legislativo y del Poder Judicial, subsistiendo con plena vigencia entratándose de servidores públicos municipales en tanto se expide un cuerpo legal para éstos.
+ARTICULO TERCERO.- El Tribunal de Conciliación y Arbitraje a que se refiere la presente Ley expedirá un reglamento que regule y adecúe su organización y funciones en los términos del presente ordenamiento.
+ARTICULO CUARTO.- Los Convenios, acuerdos, reglamentos, prerrogativas y en general los derechos que estén establecidos a favor de los trabajadores, superiores a los que esta Ley les concede, continuarán surtiendo sus efectos en todo aquello que les beneficie.
