@@ -1,0 +1,1 @@
+ARTICULO 5.- La Secretaría de Desarrollo Social promoverá la celebración de convenios con los Ayuntamientos de los Municipios del Estado de Guerrero para desarrollar y ejecutar los programas y acciones que contribuyan a mejorar las condiciones de vida y el bienestar integral de los periodistas en los Municipios.

@@ -1,0 +1,1 @@
+ARTICULO 11.- La Secretaría de Educación Guerrero vigilará para que en los programas de becas a estudiantes que administra o en los que participe, se beneficie a los hijos de periodistas, cuando reúnan los requisitos académicos y socioeconómicos correspondientes.

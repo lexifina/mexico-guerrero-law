@@ -1,0 +1,2 @@
+ARTICULO 10.- A efecto de estimular la educación del periodista y su familia, la Secretaría de Desarrollo Social a través del Sistema Estatal de Becas, diseñará y ejecutará un programa de becas para periodistas en los niveles de licenciatura y postgrado.
+Asimismo promoverá que los hijos de periodistas sean incluidos en el programa de becas Guerrero que administra la Secretaría de Desarrollo Social, siempre y cuando cumplan con la normatividad establecida.

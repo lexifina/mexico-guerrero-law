@@ -1,0 +1,1 @@
+ARTICULO 4.- Para la eficaz operación y cumplimiento de la presente Ley, la Secretaría de Desarrollo Social podrá celebrar convenios de colaboración y coordinación con las dependencias, instituciones u organizaciones federales, estatales o municipales.
