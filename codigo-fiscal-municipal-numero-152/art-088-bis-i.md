@@ -3,11 +3,15 @@ ARTICULO 88 BIS I.- Son infracciones y sanciones cuya responsabilidad recae en l
 I.- Amonestación por escrito:
 a).- Cuando en la revisión de los avalúos se determine que los datos no corresponden a la realidad o los valores asentados se determinaron con base a un incremento porcentual de los valores catastrales aplicados por el Ayuntamiento;
 b).- Por cambiar de domicilio fiscal sin dar el aviso correspondiente a las autoridades fiscales municipales y a la Secretaría de Finanzas y Administración;
-c).- Por cualquier otro incumplimiento a las disposiciones normativas que establecen las Leyes de Catastro, de Hacienda Municipal, respectivamente y el presente Código.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)
+c).- Por cualquier otro incumplimiento a las disposiciones normativas que establecen las Leyes de Catastro Municipal, de Hacienda Municipal, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código.
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1999)
+d).- Por la incorrecta aplicación de los parámetros valuatorios y deficiente empleo de los factores de eficiencia por abajo de lo establecido en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
 II.- Suspensión de seis a doce meses, en caso de reincidir en alguna de las situaciones señaladas en la fracción que antecede de este artículo.
 III.- Cancelación por:
 a).- Haber obtenido, el registro con información y/o documentación falsa.
-b).- Por violaciones graves y reiteradas a las disposiciones del apartado de los avalúos, en la práctica y formulación de éstos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)
+b).- Por violaciones graves y reiteradas a las disposiciones del apartado de los Avalúos, en la práctica y formulación de éstos, contenidas en la Ley de Catastro Municipal, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código.
 c).- Cancelación definitiva del registro, o inhabilitación como perito valuador por la Comisión Nacional Bancaria y de Valores, conforme a ordenamientos legales y administrativos aplicables, en relación con la actividad valuatoria.
 d).- Ser condenado mediante sentencia ejecutoriada que amerite pena corporal.
 Al perito valuador que se le suspenda temporalmente, no podrá realizar avalúos con fines fiscales durante ese período, sujetándose su reinscripción a los requisitos mencionados en el Artículo 65 de la Ley de Catastro Municipal. En el momento de la suspensión el perito valuador, reportará los avalúos hechos hasta esta fecha, así como los pendientes, quedando apercibido de que los no reportados no tendrán validez.

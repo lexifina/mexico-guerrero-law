@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1999)
+ARTICULO 31 Bis.- Para determinar las contribuciones se considerarán, inclusive las fracciones del peso. No obstante lo anterior; los contribuyentes al efectuar su pago, el monto se ajustará para que las contengan cantidad que incluya de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior, y a las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
