@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- Los bienes y recursos de la Dirección General de Artesanías dependiente de la Secretaría de Desarrollo Económico y Trabajo, previas las formalidades legales, será transferido al Centro Guerrerense de Artesanías.
