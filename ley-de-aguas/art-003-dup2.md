@@ -1,0 +1,42 @@
+ARTICULO 3.- Para los efectos de esta Ley se entenderá por:
+I.- AGUA EN BLOQUE: La utilizada o aprovechada para la construcción y en el suministro a conjuntos habitacionales, centros industriales y comerciales;
+II.- AGUA PARA SERVICIOS: La destinada a satisfacer las necesidades de la administración pública federal, estatal y municipal;
+III.- AGUA PARA USO COMERCIAL: La destinada para la comercialización de un bien o servicio;
+IV.- AGUA PARA USO DOMESTICO: La utilizada en casa-habitación para consumo humano, la preparación de alimentos y para satisfacer las necesidades más elementales como el servicio sanitario, la limpieza personal y la limpieza de bienes;
+V.- AGUA PARA USO INDUSTRIAL: La utilizada como insumo para cualquier proceso industrial;
+VI.- AGUAS PLUVIALES: Las que provienen de lluvias, incluyendo las de nieve y granizo;
+VII.- AGUA POTABLE: La utilizada en uso doméstico, comercial o industrial que reúne los requisitos establecidos en las normas oficiales mexicanas y demás leyes de la materia;
+VIII.- AGUAS RESIDUALES: Las provenientes de actividades domésticas, industriales, comerciales o de cualquier otra actividad humana, y que por el uso recibido se le hayan incorporado contaminantes en detrimento de su calidad original;
+IX.- ALCANTARILLADO: La red o sistema de conductos y accesorios para recolectar y conducir las aguas residuales y pluviales al desagüe o drenaje;
+X.- ASOCIACION DE USUARIOS: El conjunto de personas físicas que se constituyen en una asociación para la prestación de los servicios públicos;
+XI.- COMISION: La Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero;
+XII.- COMUNIDAD RURAL: El centro de población con menos de 2,500 habitantes;
+XIII.- CONCESIONARIO: La persona física o moral a la que se concesionan los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de aguas residuales tratadas;
+XIV.- CONEXION CLANDESTINA: La instalación transitoria o permanente a la infraestructura hidráulica, con el objeto de derivar agua potable o descargar aguas residuales, sin contar con la autorización correspondiente ni cumplir con lo previsto en la Ley;
+XV.- CONSEJO CONSULTIVO: El Organo de Consulta y Opinión de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero y del organismo operador;
+XVI.- CONSEJO DE ADMINISTRACION: El Organo de Gobierno de la Comisión o del Organismo Operador de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero;
+XVII.- CONSTANCIA DE PRESTACIÓN DE SERVICIOS: El documento expedido por la Comisión, el Ayuntamiento u Organismo Operador, en el que se hace constar que se prestan mediante contrato los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición final de aguas residuales tratadas o agua en bloque a un inmueble o que ha formulado dictamen técnico que determina la procedencia para la prestación de dichos servicios;
+XVIII.- CONTRATISTAS: Las personas físicas o morales que celebren contratos con la Comisión, los Ayuntamientos u Organismos Operadores;
+XIX.- DERIVACION: La conexión clandestina después de la toma, con objeto de abastecer de agua a uno o más usuarios distintos al contratante de los servicios públicos;
+XX.- DESCARGA: El vertimiento de aguas residuales y pluviales a la red de drenaje y alcantarillado;
+XXI.- DICTAMEN TECNICO: La resolución de los trabajos y estudios que realicen la Comisión, los Ayuntamientos u Organismos Operadores para determinar la procedencia o improcedencia de la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición final de aguas residuales tratadas, o agua en bloque; así como las condiciones particulares en que se prestarán los mismos;
+XXII.- DRENAJE: El sistema de conductos abiertos y cerrados, infraestructura hidráulica para el desagüe y alejamiento de las aguas residuales y pluviales;
+XXIII.- ESTADO: El Estado Libre y Soberano de Guerrero;
+XXIV.- ESTRUCTURA TARIFARIA: La tabla que se establece por cada tipo de usuarios y en su caso, nivel de consumos y los precios por unidad de servicio que deberán pagar;
+XXV.- INFRAESTRUCTURA HIDRAULICA: Las presas, plantas potabilizadoras, plantas de tratamiento, acueductos, colectores, pozos, cárcamos, redes primarias y secundarias y demás construcciones y equipamiento para la prestación de los servicios públicos;
+XXVI.- JUNTA OPERADORA: El órgano administrativo desconcentrado de la Comisión que, previo convenio con uno o más Ayuntamientos, presta los servicios públicos en un ámbito territorial definido en uno o más Municipios;
+XXVII.- LIMITACION: La acción y efecto de restringir el suministro de agua potable a usuarios domésticos por falta de pago de dicho servicio; uso distinto al autorizado; derivaciones o conexiones e incumplimiento de lo establecido en la Ley;
+XXVIII.- LODOS: Los residuos que se obtienen como parte del tratamiento de las aguas residuales y que son susceptibles de aprovechamiento en procesos agrícolas o industriales;
+XXIX.- ORGANISMO OPERADOR: El organismo público descentralizado cuyo objetivo general será la prestación de los servicios públicos, puede ser municipal o intermunicipal;
+XXX.- PRESTADOR DE LOS SERVICIOS: El que suministre los servicios públicos mediante concesión;
+XXXI.- PROGRAMA DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO: El documento que integra la planeación, programación y ejecución de proyectos y acciones en el corto, mediano y largo plazo que debe efectuar el prestador de los servicios con el objeto de asegurar la extensión de la cobertura y mejora de los servicios públicos. Podrá ser estatal, municipal o regional y deberá ser congruente con el Plan Estatal de Desarrollo y los Programas Sectoriales, previstos en la legislación en materia de planeación;
+XXXII.- RED PRIMARIA: Las tuberías principales o troncales que distribuyen el agua a la población, a partir de las cuales se ramifican las tuberías que integran la red secundaria;
+XXXIII.- RED SECUNDARIA: Las tuberías que se derivan de la red primaria y que permiten ampliar la distribución a las tomas con diámetros menores;
+XXXIV.- REINCIDENCIA: Las infracciones subsecuentes a un mismo precepto cometidas dentro de los dos actos siguientes a la fecha del acta en que se hizo constar la infracción precedente, siempre que ésta no hubiere sido desvirtuada;
+XXXV.- REUSO: La utilización de las aguas residuales previamente tratadas que cumplan con lo establecido en las normas oficiales mexicanas y demás leyes aplicables para la industria, el riego de áreas verdes, la agricultura y otros usos permitidos;
+XXXVI.- SERVICIOS PUBLICOS: Los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de aguas residuales tratadas;
+XXXVII.- SUSPENSION: La acción y efecto de interrumpir en forma temporal al usuario no doméstico el servicio de agua potable, por falta de pago; uso distinto al autorizado; derivaciones o conexiones clandestinas e incumplir lo establecido en esta Ley;
+XXXVIII.- TARIFA MEDIA DE EQUILIBRIO: La tarifa promedio que deberá aplicarse por cada unidad cobrada a los usuarios, para asegurar el equilibrio financiero del prestador de los servicios públicos;
+XXXIX.- TOMA: La interconexión entre la red secundaria y la infraestructura del predio del usuario contratante para proporcionar el servicio de agua, incluyendo el ramal, el cuadro y el medidor;
+XL.- TRATAMIENTO DE AGUAS RESIDUALES: El proceso al que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se le hayan incorporado; y
+XLI.- USUARIO: La persona física o moral a la que se le presta los servicios públicos. Tratándose de definiciones de conceptos en materia de agua, ecología y forestal será supletoria la legislación federal y estatal.

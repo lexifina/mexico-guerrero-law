@@ -1,0 +1,1 @@
+ARTICULO 9.- Las sesiones serán convocadas y presididas por el Presidente y para que sean válidas se requerirá la asistencia del cincuenta por ciento más uno de los integrantes del Consejo de Administración; los acuerdos y resoluciones se tomarán con el voto del cincuenta por ciento más uno de los asistentes, el Presidente tendrá voto de calidad.

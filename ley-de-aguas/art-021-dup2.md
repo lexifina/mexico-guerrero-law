@@ -1,0 +1,1 @@
+ARTICULO 21.- El sistema de planeación estratégica para la prestación de los servicios públicos, se integrará por dependencias del Gobierno del Estado vinculadas con estas actividades, por los Ayuntamientos, los Organismos Operadores y los sectores social y privado.

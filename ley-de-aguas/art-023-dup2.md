@@ -1,0 +1,1 @@
+ARTICULO 23.- El Programa de Agua Potable, Alcantarillado y Saneamiento, tendrá por objetivo asegurar la continua satisfacción de las necesidades para las generaciones actuales y futuras de todas las localidades y asentamientos humanos regulares del Estado, en cantidad y calidad suficiente, sin degradar el medio ambiente.
