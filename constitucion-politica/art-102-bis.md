@@ -1,1 +1,0 @@
-Artículo 102 bis. (DEROGADO, P.O. 29 DE JUNIO DE 1938)
