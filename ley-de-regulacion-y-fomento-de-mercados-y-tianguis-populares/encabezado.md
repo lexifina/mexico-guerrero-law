@@ -1,0 +1,6 @@
+LEY DE REGULACION Y FOMENTO DE MERCADOS Y TIANGUIS POPULARES
+Ley publicada en el Periódico Oficial del Gobierno del estado de Guerrero, el viernes 30 de junio de 1989.
+JOSE FRANCISCO RUIZ MASSIEU, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
+Que el H. Congreso Local, se ha servido comunicarme que,
+LA QUINCUAGESIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, TUVO A BIEN EXPEDIR LA SIGUIENTE:
+LEY DE REGULACION Y FOMENTO DE MERCADOS Y TIANGUIS POPULARES
