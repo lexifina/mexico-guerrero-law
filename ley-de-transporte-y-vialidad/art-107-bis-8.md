@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)
+ARTICULO 107 Bis 8.- Los autobuses provenientes de otras municipalidades o entidades federativas que se utilicen para transportar visitantes hacia las localidades turísticas y para su uso dentro de las mismas, no podrán ser estacionados en las vialidades de carácter turístico sino únicamente para ascenso y descenso de los pasajeros.
+Cuando se trate de turismo social y hasta en tanto no hayan los parques y estacionamientos a que se refiere esta ley, podrán temporalmente autorizar excepción a lo previsto en el párrafo anterior, si no afecta el interés general.

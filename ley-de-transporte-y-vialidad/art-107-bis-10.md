@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)
+ARTICULO 107 Bis 10.- Los reglamentos municipales y estatales, en su caso, considerarán modificaciones temporales a la aplicación de las normas técnicas y disposiciones en materia de tránsito y de transporte de carga, por lo que se refiere a estacionamiento en la vía pública, calendarios y horarios, en los días de mayor afluencia turística y en las horas de más tráfico vehicular, estableciéndose operativos de tránsito y de transporte por parte de las autoridades competentes.
+Igualmente, podrán autorizar a la autoridad a que se modifiquen temporalmente los sentidos de la circulación de las vialidades de zonas turísticas tomando las providencias de señalización pertinente.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)
+ARTICULO 107 Bis 4.- Se establecerán normas técnicas y disposiciones administrativas para que la vía pública no sea reservada en exclusiva para vehículo alguno. Cuando la autoridad municipal autorice a los propietarios de establecimientos hoteleros, comerciales o gastronómicos el uso de la vía pública para el estacionamiento de vehículos de sus propietarios, empleados o consumidores, deberá aplicarse a dicha autoridad el régimen de concesiones y de autorizaciones en general, según la ley relativa.

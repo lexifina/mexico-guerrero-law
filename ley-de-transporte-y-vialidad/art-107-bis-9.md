@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)
+ARTICULO 107 Bis 9.- Sin perjuicio de lo establecido en el artículo 105, los ayuntamientos directamente, o a través de concesiones, establecerán parques para autobuses que transporten turistas o visitantes, casas móviles y vehículos análogos. Dichos parques contarán con servicios sanitarios, agua potable, y otras facilidades que eviten deterioros a las condiciones ambientales de la Ciudad.
