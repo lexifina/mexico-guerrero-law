@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- Es facultad del Ejecutivo del Estado, oyendo el parecer de la Comisión de Promoción y Desarrollo Económico y Social, de la Dirección General de Hacienda y Economía del Estado y, en su caso, de la dependencia afín con la industria de que se trate, determinar si una industria es nueva o necesaria.

@@ -1,0 +1,1 @@
+ARTICULO DECIMO PRIMERO.- Las personas físicas o morales que deseen acogerse a los beneficios que concede esta Ley, deberán presentar a la Comisión de Promoción y Desarrollo Económico y Social del Estado una solicitud por escrito, en la forma oficial aprobada para el efecto, acompañada de copia de la escritura constitutiva, en el caso de personas morales.

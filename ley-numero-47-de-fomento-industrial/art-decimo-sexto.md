@@ -1,0 +1,1 @@
+ARTICULO DECIMO SEXTO.- Se faculta a la Comisión de Promoción y Desarrollo Económico y Social del Estado para resolver las dudas que surjan con motivo de la aplicación de las disposiciones de esta Ley y dictar las resoluciones administrativas tendientes a reglamentar dichas disposiciones.

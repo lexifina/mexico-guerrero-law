@@ -1,0 +1,1 @@
+ARTICULO NOVENO.- Toda industria necesaria que se establezca en el Estado, gozará de las mismas franquicias, en los términos del artículo anterior por un período de cinco años, en la proporción que fije el Ejecutivo del Estado.

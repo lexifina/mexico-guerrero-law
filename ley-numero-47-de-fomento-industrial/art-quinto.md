@@ -1,0 +1,4 @@
+ARTICULO QUINTO.- Se consideran industrias nuevas:
+I.- Las que se dediquen a la manufactura o fabricación de mercancías o a la prestación de servicios que no se produzcan u ofrezcan en la Entidad, siempre y cuando estos últimos contribuyan a su desarrollo económico.
+II.- Las nuevas divisiones de empresas ya existentes que se establezcan para producir artículos de una línea diferente y que demanden maquinaria y equipo distintos de aquellos con que cuenta.
+No se consideran industrias o empresas de servicios nuevas, aquellas que se dediquen a la manufactura o fabricación de artículos que no se produzcan en el Estado pero que constituyan menos substitutos de otros que ya se producen, las que realicen una transformación de pequeña cuantía en relación al costo directo de producción o presten un servicio similar a los que ya existen.

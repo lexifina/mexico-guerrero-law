@@ -1,0 +1,1 @@
+ARTICULO PRIMERO.- Es objeto de la presente Ley, el fomento y la protección de la industria en el Estado, mediante la concesión de franquicias fiscales y otros (sic) medidas que estimulen el establecimiento de nuevas actividades industriales y el mejor desarrollo y protección de las existentes, dentro de la política nacional de descentralización industrial.

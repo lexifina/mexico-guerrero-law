@@ -1,0 +1,1 @@
+ARTICULO SEXTO.- Se consideran industrias necesarias, las que realicen una modernización y ampliación de las instalaciones de empresas industriales que tengan como propósito aumentar sustancialmente su producción.
