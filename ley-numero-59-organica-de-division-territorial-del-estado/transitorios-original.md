@@ -5,3 +5,4 @@ Art. 3o.- Esta Ley surtirá sus efectos a partir de la fecha de su publicación 
 Dado en el Salón de Sesiones del H. Poder Legislativo, a los dieciocho días del mes de diciembre de mil novecientos cuarenta y cuatro.- Diputado Presidente, Alberto Jaimes.- Diputado Secretario, Francisco Díaz y Díaz.- Diputado Secretario, Prof. Baltasar Calvo.- Rubricados.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Chilpancingo, Gro., a 20 de diciembre de 1944.- GRAL. E ING. RAFAEL CATALAN CALVO.- El Secretario General de Gobierno, LIC. ISMAEL ANDRACA NAVARRETE.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
