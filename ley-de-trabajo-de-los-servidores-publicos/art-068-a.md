@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE JUNIO DE 1992)
+ARTICULO 68 A.- Cuando con motivo de un Convenio o Acuerdo de Coordinación se transfiera el uso de facultades, programas y recursos del Gobierno Federal al Gobierno del Estado y éste deba asumir la titularidad patronal respecto de trabajadores transferidos, éstos seguirán formando parte de la organización sindical que corresponda, distinta a la establecida en el Artículo 68 de esta Ley, la cual quedará sometida a este ordenamiento en lo conducente.
