@@ -13,3 +13,4 @@ Dada en el Palacio del Poder Ejecutivo, en la Ciudad y Puerto de Acapulco de Ju√
 S. G. Mariscal.
 El Secretario General,
 J. Adams.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
