@@ -1,0 +1,8 @@
+P.O. 8 DE OCTUBRE DE 2002.
+PRIMERO.- Remítase el presente Decreto a los Ayuntamientos del Estado para los efectos de lo establecido en la fracción III del artículo 125 de la Constitución Política del Estado.
+SEGUNDO.- Una vez que se tengan las Actas de la mitad más uno de los Ayuntamientos por las que se aprueba o desecha el presente, llévese a cabo el cómputo de las mismas y emítase la declaratoria de validez correspondiente.
+TERCERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+CUARTO.- A partir de la entrada en vigor del presente Decreto se procederá al nombramiento del Titular del Organo de Fiscalización Superior, conforme al procedimiento que se establezca en la Ley.
+QUINTO.- En el caso de que el presente Decreto sea aprobado por la mitad más uno de los Ayuntamientos del Estado antes del quince de septiembre del dos mil dos, la Cuenta de la Hacienda Pública correspondiente a los meses de enero a agosto del ejercicio fiscal del dos mil dos deberá ser presentada al Congreso del Estado en la primera quincena del mes de septiembre del mismo año, para que sea analizada, discutida y, en su caso, aprobada a más tardar el día treinta de octubre del dos mil dos.
+SEXTO.- El Organo de Fiscalización Superior iniciará sus funciones que conforme a esta Constitución y la Ley le correspondan, a partir del primero de enero del dos mil tres.
+SEPTIMO.- Hasta en tanto el Organo de Fiscalización Superior no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda del Congreso del Estado continuará ejerciendo las atribuciones que le otorgan la Constitución Política Local y otras disposiciones jurídicas vigentes en el Estado.

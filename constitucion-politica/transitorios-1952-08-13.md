@@ -1,0 +1,2 @@
+P.O. 13 DE AGOSTO DE 1952.
+ARTICULO UNICO.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
