@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1993)
+ARTICULO 63 BIS.- Cuando varias personas hayan celebrado un contrato con multivacaciones, mediante el cual han adquirido los créditos civiles, denominados puntos, podrán constituir el Sistema Multivacaciones.
+Podrán adquirir los créditos civiles, denominados puntos, las personas físicas o morales, que puedan adquirir derechos reales y en tratándose de personas físicas o morales extranjeras con las limitaciones previstas en el artículo 27 de la Constitución General de la República y demás leyes aplicables, en todos los casos el derecho real de multivacaciones.
+Se inscribirán en el Registro Público de la Propiedad y del Comercio, para que surta sus efectos frente a terceros, siendo aplicables todas las reglas del Sistema de Tiempo Compartido, en cuanto a su constitución y organización.
+Los derechos y obligaciones de los tiempocompartidarios, son aplicables a los multivacacionistas, quienes gozarán el derecho de uso total, exclusivo y absoluto sobre todo el bien, únicamente por el período de tiempo determinado en el calendario de uso.
+COMISION DE DERECHOS.- Cada multivacacionista podrá libremente enajenar los puntos de que sea titular, siempre que su precio haya sido íntegramente pagado. La sesión requerirá la autorización expresa y por escrito de multivacaciones.
+PERIODO DE ACREDITAMIENTO.- Los puntos, serán acreditables durante el período que la empresa desee constituirse.
+El multivacacionista, tiene absoluta libertad para acreditar los puntos, tipo de módulo y período que decida, por lo que podrá acreditar todos sus puntos en un solo año, en varios años o hasta la expiración del plazo, fijado en la constitución del propio sistema.
