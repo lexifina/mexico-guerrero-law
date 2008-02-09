@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. El Banco Estatal de Datos e Información sobre casos de Violencia contra las Mujeres a que refiere la fracción III del artículo 48 deberá integrarse dentro de los 365 días siguientes a la conformación del Sistema.
