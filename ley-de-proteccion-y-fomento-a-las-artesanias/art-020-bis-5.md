@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)
+ARTICULO 20 bis 5.- El Centro Guerrerense de Artesanías, en coordinación con las dependencias, entidades competentes y Ayuntamientos, fomentarán la utilización de insumos artesanales alternos en las zonas en que, de conformidad con los criterios ecológicos, disposiciones administrativas, normas oficiales y/o disposiciones jurídicas aplicables, ya no sea posible la explotación de recursos naturales.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)
+ARTICULO 18 bis 2.- Para la elección del Presidente y Secretario, el Consejo Técnico expedirá la convocatoria respectiva, debiendo proponer los candidatos las Asociaciones y organizaciones de artesanos registrados en el Padrón de Artesanos, quienes serán designados por mayoría de votos de los presentes el día de la elección, los integrantes del Consejo de Vigilancia, durarán en su encargo tres años, pudiendo ser ratificados; la Vocalía será renovada de acuerdo al cambio de Legislatura.
+Los integrantes del Consejo de Vigilancia, no tendrán el carácter de servidores públicos.

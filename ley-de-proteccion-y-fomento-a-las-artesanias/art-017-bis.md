@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)
+ARTICULO 17 bis.- La convocatoria deberá ser enviada a los miembros del Consejo Técnico y de Vigilancia con no (sic) menos de cinco días hábiles de anticipación, acompañado del Orden del Día, la información y documentación que permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de sus funciones. Para sesionar, el quórum se formará con la mitad más uno e sus integrantes y los acuerdos se tomarán por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.

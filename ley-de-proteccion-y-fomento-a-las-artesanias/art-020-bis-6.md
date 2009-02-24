@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)
+ARTICULO 20 bis 6.- Para el caso en que los productos artesanales sean elaborados a base de maderas o plantas, el Centro Guerrerense de Artesanías, las dependencias afines y los Ayuntamientos, proveerán de apoyo técnico a las organizaciones de artesanos para la promoción de campañas permanentes para la siembra y cultivo de árboles y plantas que serán utilizadas como materiales primarios.
