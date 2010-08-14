@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley Número 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se Sujetarán las Participaciones Federales, y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.

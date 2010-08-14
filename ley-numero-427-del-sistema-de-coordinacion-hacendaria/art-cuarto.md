@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Reglamento Interior del Sistema de Coordinación Hacendaria del Estado de Guerrero, deberá ser aprobado a más tardar noventa días después de la entrada en vigor de la presente Ley.

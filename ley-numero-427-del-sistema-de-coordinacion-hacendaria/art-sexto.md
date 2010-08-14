@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Esta Ley será aplicable en tanto no contravenga las obligaciones locales que deriven de la Legislación Federal Vigente en Materia Hacendaria, así como de los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal, Colaboración Administrativa y otros que el Estado celebre con la Federación.
