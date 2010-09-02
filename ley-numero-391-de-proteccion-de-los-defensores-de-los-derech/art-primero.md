@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- Se aceptan parcialmente las observaciones hechas por el Titular del Poder Ejecutivo a los artículos 6, 15 Y 16 del Dictamen con, Proyecto de Ley Número 391 De Protección de los Defensores de los Derechos Humanos en el Estado de, Guerrero, aprobado por el Pleno del H. Congreso del Estado con fecha 18 de mayo del año 2010.

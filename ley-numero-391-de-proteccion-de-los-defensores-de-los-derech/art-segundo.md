@@ -1,0 +1,2 @@
+ARTÍCULO SEGUNDO.- Aceptadas e integradas las observaciones al Dictamen con Proyecto de Ley Número 391 De Protección de los Defensores de los Derechos Humanos en el Estado de Guerrero, aprobado por el Pleno del H. Congreso del Estado con fecha 18 de mayo del año, 2010, dicha ley queda en los términos siguientes:
+LEY NÚMERO 391 DE PROTECCIÓN DE LOS DEFENSORES DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUERRERO.
