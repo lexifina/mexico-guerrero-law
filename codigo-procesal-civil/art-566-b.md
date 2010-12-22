@@ -1,3 +1,3 @@
-(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)
-Artículo 566 B.- Competencia. Para conocer de la violencia intrafamiliar será competente el del domicilio del actor o del demandado a elección del primero. Por las repercusiones propias de la violencia intrafamiliar, podrá recibir la comparecencia cualquier Juzgador el que una vez que la haya recibido y dictado las medidas cautelares, remitirá las actuaciones al competente.
-En auxilio de los Jueces de Primera Instancia podrán recibir la solicitud los Jueces de Paz, quienes una vez que la hayan recibido y dictado en su caso las medidas cautelares, las remitirán al Juez de Primera Instancia de su adcripción.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)
+Artículo 566 B.- Competencia. Para conocer de la violencia familiar será competente el Juzgador del domicilio del actor o del demandado a elección del primero. Por las repercusiones propias de la violencia familiar, podrá recibir la comparencia (sic) cualquier Juzgador, quien una vez que la haya recibido y dictado las medidas cautelares, remitirá las actuaciones al competente.
+En auxilio de los Jueces de Primera Instancia podrán recibir la solicitud los Jueces de Paz, quienes una vez que la hayan recibido y dictado las medidas cautelares, remitirán sus actuaciones dentro de los siguientes tres días al Juez de Primera Instancia.
