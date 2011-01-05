@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)
-Artículo 520 BIS.- Para los procedimientos previstos en el presente Título se observarán los principios siguientes:
+Artículo 520 Bis.- Para los procedimientos previstos en el presente Título se observarán los principios siguientes:
 I. No discriminación y respeto a la dignidad de las personas. El juzgador en todo momento deberá evitar conductas encaminadas a impedir, limitar o negar el ejercicio de un derecho de las personas que participen a un proceso, por razón del sexo, pertenencia étnica, discapacidad, preferencia sexual o cualquier otra que atente contra la dignidad de las personas;
 II. Interés superior de la infancia. El juzgador tratándose de procedimientos que involucren a menores de edad, deberá garantizarles a éstas sus derechos, procurando su bienestar e integridad física y emocional;
 III. Igualdad entre hombres y mujeres. El Juzgador deberá garantizar la igualdad jurídica de las partes en el proceso, reconociendo las diferencias sociales, culturales y económicas existentes entre mujeres y hombres;
