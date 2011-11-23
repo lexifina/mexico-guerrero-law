@@ -1,4 +1,4 @@
-LEY NUMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 CARLOS ZEFERINO TORREBLANCA GALINDO, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 Que el H. Congreso Local, se ha servido comunicarme que,
