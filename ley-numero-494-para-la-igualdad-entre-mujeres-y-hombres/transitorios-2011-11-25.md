@@ -1,0 +1,5 @@
+P.O. 25 DE NOVIEMBRE DE 2011.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Guerrero.
+ARTÍCULO SEGUNDO.- En un plazo no mayor a treinta días a partir de la entrada en vigor del presente Decreto, el Sistema Estatal para la Igualdad entre Mujeres y Hombres emitirá los criterios y lineamientos para la integración de los presupuestos de egresos con perspectiva de género, a los que se alude en el artículo 43 bis, señalado en el presente Decreto.
+ARTÍCULO TERCERO.- En un plazo no mayor de noventa días, contados a partir de la entrada en vigor del presente Decreto, el Sistema Estatal para la Igualdad entre Mujeres y Hombres instalará el Sistema de Evaluación, Control y Seguimiento de la Aplicación de la Política de igualdad entre Mujeres y Hombres, así como su Reglamento Interno, descritos en el Capítulo II "Del Sistema de Evaluación" y señalado en el presente Decreto.
+ARTÍCULO CUARTO.- Comuníquese el presente Decreto al Titula del Poder Ejecutivo para los efectos legales conducentes.

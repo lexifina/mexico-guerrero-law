@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)
+Artículo 66 Bis 1. Para el efecto de lo señalado en los artículos 18, fracción I; y 36, fracción III de la presente Ley, se crea el Sistema de Evaluación, Control y Seguimiento de la Aplicación de la Política de Igualdad entre Mujeres y Hombres, como un órgano permanente de carácter técnico, adscrito directamente al Sistema Estatal, dirigido y coordinado por la Secretaría, con la finalidad de informar a la ciudadanía acerca del desempeño de las políticas públicas de igualdad y apoyar al Sistema en la toma de decisiones.
