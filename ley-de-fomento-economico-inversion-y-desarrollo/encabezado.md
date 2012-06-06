@@ -1,4 +1,4 @@
-LEY DE FOMENTO ECONOMICO, INVERSION Y DESARROLLO DEL ESTADO DE GUERRERO, NUMERO 487
+LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO, NÚMERO 487
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el 21 de junio de 2002.
 RENE JUAREZ CISNEROS, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 Que el H. Congreso Local, se ha servido comunicarme que,
