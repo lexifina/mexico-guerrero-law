@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Gobernador del Estado, a través de la Secretaría de Salud, emitirá el Reglamento que contenga los lineamientos para la aplicación de la presente Ley, en un término de 90 días naturales posteriores a la entrada en vigor.
