@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2013)
+Artículo 35 Bis.- Los programas prioritarios de Fomento Económico, Inversión y Desarrollo en el Estado de Guerrero, contaran con Gasto Programable anual por la vía de inversión en programas y proyectos de Infraestructura y Equipamiento asignado a cada uno de ellos, en el Presupuesto de Egresos del Estado, del ejercicio Fiscal correspondiente y estarán basados en la obtención resultados (sic) y cumplimiento de objetivos y en lo dispuesto en esta Ley.
