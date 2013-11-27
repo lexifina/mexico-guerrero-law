@@ -1,2 +1,3 @@
-(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)
-ARTICULO 7-BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionarios y permisionarios de los diversos servicios que se exploten dentro de las vías públicas de la Entidad, el Ejecutivo podrá autorizar al Director de la Comisión Técnica de Transporte y Vialidad, para que celebre convenios con esos Concesionarios y Permisionarios, a fin de coordinar las acciones de los mismos en la conservación y ampliación del Sistema Vial de la Entidad.
+(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)
+ARTICULO 7o-BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionarios y permisionarios de los diversos servicios que se exploten dentro de las vías públicas de la Entidad, el Ejecutivo Estatal podrá autorizar al titular de la Comisión Técnica de Transporte y Vialidad para celebrar convenios con los concesionarios y permisionarios, a fin de coordinar las acciones de los mismos en la conservación y ampliación del Sistema Vial de la Entidad.
+Los organismos podrán celebrar dichos convenios, previa autorización de la Comisión Técnica de Transporte y Vialidad.

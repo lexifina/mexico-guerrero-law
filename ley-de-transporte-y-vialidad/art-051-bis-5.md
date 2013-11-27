@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)
+ARTICULO 51 BIS 5.- Las concesiones y contratos que se otorguen para el transporte masivo serán preferentemente integrales respecto de los componentes de los Corredores del Sistema Integral de Transporte Masivo, pero cuando así resulte conveniente o necesario, podrán concursarse, otorgarse y/o contratarse por separado o por etapas, si ello permite un avance más ordenado en su implementación.
+En los títulos de concesión o contratos se establecerán los bienes objeto de los mismos que al término de la vigencia pasarán al dominio del Estado sin costo alguno y libre de todo gravamen.

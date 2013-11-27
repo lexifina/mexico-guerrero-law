@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)
+ARTICULO 51 BIS 24.- Los efectos de la terminación anticipada de los contratos y de la revocación de las concesiones se determinarán en cada uno de estos. En caso de que se rescinda el contrato o revoque la concesión, por causas no imputables al contratista, se deberá reembolsar a éste los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y los mismos se relacionen directamente con el objeto de la concesión o contrato.

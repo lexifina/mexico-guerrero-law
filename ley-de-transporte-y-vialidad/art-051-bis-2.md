@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)
+ARTICULO 51 BIS 2.- Los Organismos aplicarán los descuentos establecidos en los títulos de concesión y en los contratos respectivos a los que se harán acreedores los concesionarios o contratistas por la falta, fallas o deficiencias en la prestación de servicios; la reiteración de éstas podrá implicar la aplicación de sanciones en términos de la presente Ley y su Reglamento.
