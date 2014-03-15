@@ -1,4 +1,4 @@
-LEY DE REESTRUCTURACION DEL SECTOR EDUCATIVO DEL ESTADO DE GUERRERO NUM. 243
+LEY DE REESTRUCTURACIÓN DEL SECTOR EDUCATIVO DEL ESTADO DE GUERRERO NÚM. 243
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 16 de febrero de 1996.
 RUBEN FIGUEROA ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 Que el H. Congreso Local, se ha servido comunicarme que,
