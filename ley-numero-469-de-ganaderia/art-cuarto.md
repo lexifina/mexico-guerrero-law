@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- A los 120 días naturales de la entrada en vigor de la presente Ley, la Secretaría de Desarrollo Rural, de acuerdo a su capacidad presupuestaria, deberá crear las áreas que sean necesarias para la aplicación de las materia (sic) a las que se refiere la actividad pecuaria, como son: salud animal, control de la movilización animal e inocuidad pecuaria.
