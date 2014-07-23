@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- La Dirección General de Seguimiento, Control y Evaluación de Asuntos de Derechos Humanos, aplicará las medidas conducentes para que la población desplazada internamente con anterioridad a la entrada en vigor de esta ley, goce de los beneficios de la misma.

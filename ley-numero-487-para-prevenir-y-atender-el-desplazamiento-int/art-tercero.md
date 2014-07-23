@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Una vez publicada esta ley, la Dirección General de Seguimiento, Control y Evaluación de Asuntos de Derechos Humanos, encargada de brindar Atención Integral al Desplazamiento Interno contará con un plazo de noventa días naturales para emitir el reglamento de esta ley.
