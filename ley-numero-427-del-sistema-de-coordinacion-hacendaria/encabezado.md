@@ -1,4 +1,4 @@
-LEY NUMERO 427 DEL SISTEMA DE COORDINACION HACENDARIA DEL ESTADO DE GUERRERO
+LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 13 de agosto de 2010.
 CARLOS ZEFERINO TORREBLANCA GALINDO, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed.
 Que el H. Congreso Local, se ha servido comunicarme que,
