@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- A los 120 días de la entrada en vigor de la presente Ley, la Secretaría de Desarrollo Rural, de acuerdo a su capacidad presupuestaria, deberá crear las áreas que sean necesarias para la aplicación de las materias a las que se refiere la actividad acuícola y pesquera, como son: sanidad, control de la movilización e inocuidad acuícola y pesquera.
