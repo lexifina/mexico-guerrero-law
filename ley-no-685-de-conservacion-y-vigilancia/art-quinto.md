@@ -1,0 +1,1 @@
+ARTICULO QUINTO.- A partir de la entrada en vigor de la presente Ley, la Junta contara con 180 días para la formulación de las disposiciones reglamentarias que no contravengan lo dispuesto en esta Ley.
