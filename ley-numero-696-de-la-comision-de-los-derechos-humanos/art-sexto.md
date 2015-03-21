@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- El Consejo Consultivo, emitirá las disposiciones reglamentarias del Servicio Civil de Carrera, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente ley, el cual deberá ser publicado en el órgano de difusión de la Comisión.

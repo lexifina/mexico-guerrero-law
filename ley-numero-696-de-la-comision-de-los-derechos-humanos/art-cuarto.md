@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los recursos humanos, materiales y financieros con que cuente la "Comisión de Defensa de los Derechos Humanos del Estado de Guerrero", se tendrán por transferidos al órgano autónomo denominado: "Comisión de los Derechos Humanos del Estado de Guerrero".

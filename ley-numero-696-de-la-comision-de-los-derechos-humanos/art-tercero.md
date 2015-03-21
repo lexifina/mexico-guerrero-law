@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Se abroga la Ley que crea la Comisión de Defensa de los Derechos Humanos y establece el procedimiento en materia de desaparición involuntaria de personas en el estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado el 26 de septiembre de 1990, y demás disposiciones legales y reglamentarias que se opongan al presente ordenamiento.

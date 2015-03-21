@@ -1,0 +1,2 @@
+ARTÍCULO SÉPTIMO.- La expedición de las Convocatorias públicas para la designación del Presidente e integrantes del Consejo Consultivo, se efectuara dentro del plazo de hasta treinta días naturales a partir de la entrada en vigor de esta ley, para esta primera designación.
+En posteriores designaciones, el término de expedición de las convocatorias se ajustara al procedimiento para cada elección previsto en esta ley.

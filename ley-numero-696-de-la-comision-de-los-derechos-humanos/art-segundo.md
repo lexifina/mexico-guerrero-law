@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Una vez publicada la presente ley, la Comisión de los Derechos Humanos del Estado de Guerrero contará con un plazo de noventa días naturales para emitir su reglamento interno, el cual deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Guerrero.

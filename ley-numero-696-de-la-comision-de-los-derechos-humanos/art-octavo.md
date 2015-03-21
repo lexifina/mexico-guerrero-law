@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- La instalación de (sic) Consejo Consultivo que integra la Comisión, se realizara a más tardar dentro del plazo de sesenta días naturales a partir del nombramiento del Presidente e Integrantes del Consejo Consultivo realizada por el Pleno del H. Congreso del Estado.

@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- El encargado de despacho de la Comisión y los integrantes del Consejo, permanecerán en el ejercicio de sus funciones, hasta en tanto hayan rendido protesta constitucional quienes deban sustituirlos.

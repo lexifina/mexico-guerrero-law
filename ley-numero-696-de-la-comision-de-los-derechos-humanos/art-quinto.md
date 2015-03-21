@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- En lo relativo a los procedimientos y trámites iniciados con anterioridad a la entrada en vigor de esta ley, se sustanciarán y resolverán hasta su conclusión; y en lo que fuere procedente, que resulte en beneficio de los interesados, serán aplicables las disposiciones que en ella se contienen.
