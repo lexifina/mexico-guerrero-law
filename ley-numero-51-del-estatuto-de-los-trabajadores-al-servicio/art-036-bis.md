@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)
+ARTICULO 36 bis.- El trabajador podrá solicitar ante el tribunal, a su elección, que se le reinstale en el trabajo que desempeñaba o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
+Si en el juicio correspondiente no comprueba la entidad pública la causa del cese, el servidor público tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del cese hasta por un período máximo de doce meses.
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al servidor público los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+En caso de muerte del servidor público, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
