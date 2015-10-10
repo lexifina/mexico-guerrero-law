@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)
+ARTÍCULO 262 BIS 7. La publicidad y difusión que se realice a través de los diferentes de (sic) información, impresos, electrónicos u otros, así como los establecimientos especializados donde se realicen los exámenes de la vista, deberán especificar el nombre, título, número de cédula profesional, institución o instituciones educativas que respaldan el ejercicio profesional y la licencia sanitaria correspondiente.
+Además, deberán informar de los riesgos de la adquisición de lentes pregraduados o de sol, económicos o muy baratos, que se expenden sin prescripción; que pueden causar severos daños en el sentido de la vista.
