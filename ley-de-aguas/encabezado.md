@@ -1,4 +1,4 @@
-LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 574
+LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 574
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de enero de 2003.
 RENE JUAREZ CISNEROS, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 Que el H. Congreso Local, se ha servido comunicarme que,
