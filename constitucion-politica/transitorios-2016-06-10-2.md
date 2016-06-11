@@ -1,0 +1,7 @@
+P.O. 10 DE JUNIO DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 105 POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 140 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos de la entidad para efecto de lo dispuesto por la fracción III del numeral 1 del Artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase la Declaratoria respectiva conforme a lo dispuesto por el numeral 2 del mismo artículo.
+SEGUNDO. Una vez emitida la Declaratoria por el Congreso del Estado, la presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+TERCERO. En un plazo de 60 días naturales a la entrada en vigor del presente decreto, la Fiscalía General del Estado deberá integrar en su organigrama a la Fiscalía Especializada en materia de desaparición forzada y búsqueda de personas desaparecidas, asimismo establecerá en su reglamento las funciones y atribuciones del órgano de procuración de justicia que se crea.
+CUARTO. Remítase este Decreto al Licenciado Héctor Astudillo Flores, Gobernador Constitucional del Estado de Guerrero, para su conocimiento y efectos procedentes.
+QUINTO. Publíquese el presente Decreto para el conocimiento general en el Periódico Oficial del Gobierno del Estado, en el portal Web del Congreso del Estado y difúndase a través de los medios de comunicación.
