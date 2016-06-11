@@ -1,7 +1,8 @@
 P.O. 29 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO. El titular del poder ejecutivo del Estado de Guerrero, dispondrá que el texto íntegro del presente decreto, se traduzca y sea plenamente difundido en forma oral y escrita en las lenguas indígenas del Estado, en un plazo no mayor a doce meses contados a partir de la entrada en vigor del presente Decreto.
-TERCERO. El Congreso del Estado de Guerrero, deberá aprobar y reformar, en un plazo no mayor de veinticuatro meses, contados a partir de la entrada en vigor del presente Decreto, las leyes que sean pertinentes para hacer concordar la legislación con las nuevas disposiciones constitucionales.
+(REFORMADO, P.O. 10 DE JUNIO DE 2016)
+TERCERO. El Congreso del Estado de Guerrero, deberá de aprobar y reformar, a más tardar el día 15 de marzo del año 2017, las Leyes que sean pertinentes para hacer concordar la legislación con las nuevas disposiciones constitucionales.
 CUARTO. En tanto se realizan las reformas correspondientes que se deriven de esta Constitución, las disposiciones de la legislación actual mantendrán su vigencia y aplicación.
 QUINTO. Para efecto de lo dispuesto en el numeral anterior, las actuales denominaciones de las instituciones y autoridades establecidas en las leyes del Estado, se atenderá de acuerdo con lo previsto en este Decreto.
 SEXTO. Las normas relativas a la entrega del informe del estado que guarda la administración pública estatal y al envío de las iniciativas de leyes de ingresos y egresos del Estado tendrán aplicabilidad una vez que el Gobernador electo en 2015 haya tomado posesión de su cargo.
