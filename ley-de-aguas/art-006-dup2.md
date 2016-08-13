@@ -4,6 +4,8 @@ II.- Proponer al Ejecutivo Estatal las acciones relativas a la planeación estra
 II.- Elaborar y mantener actualizado en coordinación con los Ayuntamientos y Organismos Operadores el Programa de Agua Potable, Alcantarillado y Saneamiento;
 IV.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus objetivos en los términos de Ley;
 V.- Establecer con la participación de los sectores social, público y privado una nueva cultura del cuidado y uso del agua, en su preservación, reutilización y pago de los servicios públicos, mediante el fomento de la educación en el buen uso del agua como un recurso vital y escaso;
+(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)
+Asimismo, podrá convenir con los tres sectores de Gobierno, su participación en actividades de preservación del medio ambiente, que redunde en beneficio del recurso del agua.
 VI.- Participar en la prevención y control de la contaminación de las aguas;
 VII.- Fomentar la investigación y desarrollo tecnológico del agua y de los servicios públicos;
 VIII.- Operar y mantener actualizado el Sistema Estatal de Información de los Servicios Públicos;

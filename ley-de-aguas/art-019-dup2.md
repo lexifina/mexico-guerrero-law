@@ -7,5 +7,5 @@ V.- Verificar el cumplimiento de las obligaciones fiscales de la Comisión;
 VI.- Vigilar en cualquier tiempo las operaciones de la Comisión;
 VII.- Vigilar el cumplimiento de las normas técnicas a las que debe sujetarse la Comisión;
 VIII.- Verificar la observancia de las disposiciones legales por parte de los servidores públicos de la Comisión; y
-IX.- Las demás que le confieran el Contralor General del Estado y otros ordenamientos jurídicos aplicables.
-Para el debido cumplimiento de sus atribuciones el Comisario Público, se podrá auxiliar del personal técnico y administrativo que requiera de la Comisión, con la aprobación del Consejo de Administración.
+(REFORMADA, P.O. 12 DE AGOSTO DE 2016)
+IX.- Las demás que le confieran el Secretario de Contraloría y Transparencia Gubernamental y otros ordenamientos jurídicos aplicables.
