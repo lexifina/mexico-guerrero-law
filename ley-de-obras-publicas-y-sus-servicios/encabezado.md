@@ -1,4 +1,4 @@
-LEY DE OBRAS PUBLICAS Y SUS SERVICIOS DEL ESTADO DE GUERRERO NUMERO 266
+LEY DE OBRAS PÚBLICAS Y SUS SERVICIOS DEL ESTADO DE GUERRERO NÚMERO 266
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de julio de 2004.
 RENE JUAREZ CISNEROS, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 Que el H. Congreso Local, se ha servido comunicarme que,
