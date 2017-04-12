@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY DE DIVORCIO DEL ESTADO DE GUERRERO
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 1990.
 JOSE FRANCISCO RUIZ MASSIEU, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
