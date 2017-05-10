@@ -1,0 +1,6 @@
+P.O. 9 DE MAYO DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 435 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO".]
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+SEGUNDO. Dentro de los 90 días naturales a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo elaborara y publicara el Reglamento de la presente Ley.
+TERCERO. Dentro de los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Poderes del Estado y los municipios, deberán adecuar sus políticas públicas en materia de igualdad entre mujeres y hombres, contemplando los criterios establecidos en la presente Ley, principalmente, políticas públicas diferenciadas para las mujeres que se encuentren embarazadas, con alguna discapacidad o que sean menores de edad, migrantes, entre otros factores de vulnerabilidad.
+CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
