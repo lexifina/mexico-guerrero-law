@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 2 DE JUNIO DE 2017)
+ARTÍCULO 165 OCTO. El cómputo en casilla de la votación obtenida por el candidato, planilla o fórmula común, se sujetará al siguiente procedimiento;
+a) Si la boleta apareciera marcada en más de uno de los respectivos emblemas, se asignará el voto al candidato, fórmula o planilla común, en el apartado correspondiente del acta de escrutinio y cómputo en casilla, pero no se computará a favor de partido alguno;
+b) Los demás votos se computarán a favor de cada uno de los partidos políticos y se sumarán a favor del candidato, fórmula o planilla común; y
+c) Los votos obtenidos por cada partido político les serán computados para determinar el porcentaje de la votación total correspondiente, para los efectos legales a que haya lugar.
+Durante el cómputo de la elección respectiva que se realice en el Consejo Distrital correspondiente, y para el caso específico descrito en el inciso a) del párrafo anterior, se deberán sumar los votos que hayan sido emitidos a favor de dos o más partidos políticos que hayan postulado candidato común y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla, distribuyéndose igualitariamente la suma de tales votos entre dichos partidos; de existir fracción, los votos correspondientes se asignarán a los partidos políticos de más alta votación.
+Para los efectos de la asignación de diputados y miembros de los Ayuntamientos por el principio de representación proporcional, se estará a lo dispuesto por esta Ley.
