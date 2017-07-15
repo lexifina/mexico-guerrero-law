@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE JULIO DE 2017)
+ARTICULO 198 TER.- El Comité de Participación Ciudadana del Sistema, tiene como fin coadyuvar en el cumplimiento de los objetivos del Comité Coordinador y las instancias que integran el Sistema Estatal Anticorrupción, propiciará la participación activa de la sociedad, así como la investigación de las causas que generen actos de corrupción, con la finalidad de fortalecer las acciones encaminadas a la prevención, detección y sanción de actos de corrupción. Se integrará y designará en términos de lo dispuesto por la Ley de la materia.

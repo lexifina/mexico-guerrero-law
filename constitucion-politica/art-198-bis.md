@@ -1,0 +1,15 @@
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE JULIO DE 2017)
+SECCIÓN VIII
+EL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUERRERO
+(ADICIONADO, P.O. 14 DE JULIO DE 2017)
+ARTICULO 198 BIS.- El Sistema Estatal Anticorrupción de Guerrero, es la instancia de coordinación de las autoridades estatales y municipales, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+I. El Sistema contará con un Comité Coordinador, que estará integrado por los titulares de la Auditoría Superior del Estado de Guerrero; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de Contraloría y Transparencia Gubernamental; por el Presidente del Tribunal de Justicia Administrativa del Estado de Guerrero; el Comisionado Presidente del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado de Guerrero y otro del Comité de Participación Ciudadana;
+II. El Comité de Participación Ciudadana del Sistema, deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+a. El establecimiento de mecanismos de coordinación con los sistemas municipales;
+b. El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial, sobre las causas que los generan;
+c. La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno estatal y municipal;
+d. El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos; y
+e. La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+Los Ayuntamientos deberán elaborar un programa municipal en la materia y coordinarse con las autoridades estatales competentes para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción en los términos que establezca la Ley del Sistema Estatal y Municipal Anticorrupción.
