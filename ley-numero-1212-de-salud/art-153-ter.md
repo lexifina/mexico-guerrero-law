@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)
+ARTICULO 153 TER. La donación de órganos, tejidos y células de seres humanos con fines de trasplantes, se regirá por los principios de altruismo, ausencia de ánimo de lucro, confidencialidad, transparencia, equidad y eficiencia, por lo que su obtención y utilización serán estrictamente a título gratuito, y los datos personales deberán protegerse en términos de las disposiciones aplicables.
+Queda prohibido el comercio de órganos y tejidos de seres humanos, se considerará disposición ilícita de órganos y tejidos de seres humanos la que se efectué sin observar las disposiciones de esta Ley y la Ley General de Salud.
+No se considerarán actos de comercio la recuperación de los costos derivados de la obtención o extracción, análisis, conservación, preparación, distribución, transportación y suministro de órganos, tejidos y células, incluyendo la sangre y sus componentes.
