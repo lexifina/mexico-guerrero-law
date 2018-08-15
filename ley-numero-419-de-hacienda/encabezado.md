@@ -1,5 +1,4 @@
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2018.]
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO.
 HÉCTOR ANTONIO ASTUDILLO FLORES, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
