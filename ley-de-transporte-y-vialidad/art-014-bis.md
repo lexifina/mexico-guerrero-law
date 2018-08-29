@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE AGOSTO DE 2018)
+ARTICULO 14 Bis.- Los delgados regionales, tendrán a su cargo dentro de su competencia la vigilancia y el control para el buen funcionamiento del servicio público de transporte, llevando a cabo todo tipo de autorizaciones de trámite, siempre y cuando éste no implique el cambio de naturaleza de las concesiones del servicio público de transporte y los permisos.
