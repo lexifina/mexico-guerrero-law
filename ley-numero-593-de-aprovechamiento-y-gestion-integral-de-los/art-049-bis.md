@@ -1,0 +1,11 @@
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 2 DE ABRIL DE 2019)
+(ADICIONADO, P.O. 2 DE ABRIL DE 2019)
+ARTÍCULO 49 BIS.- Se prohíbe a las entidades gubernamentales del ámbito estatal y municipal; establecimientos industriales, comerciales y de servicios en el Estado de Guerrero:
+I.- Proporcionar a título gratuito u oneroso cualquier tipo de bolsa de plástico desechable para fines de envoltura, carga o traslado de productos o mercancías;
+II.- Proporcionar envases de poliestireno expandido, así como utensilios de plástico de un solo uso, en la venta y entrega de alimentos y bebidas; y
+III.- Usar, entregar o vender popotes de plástico.
+Se excluye de esta prohibición, los popotes que se empleen en hospitales o por cuestiones médicas, siempre y cuando sean de material biodegradable y/o compostable, refiriéndose a los materiales que al desecharse se convierten en composta o abono.
+Asimismo, esta prohibición no es aplicable en los casos en que se empleen por razones de higiene o conservación de alimentos, siempre y cuando sean de material biodegradable o compostable.
+El Estado, a través de la Secretaria de Medio Ambiente y Recursos Naturales y los Municipios en coordinación con las Cámaras Empresariales, la Universidad, las Organizaciones de la Sociedad Civil y la ciudadanía en general, deberán instrumentar estrategias y campañas de promoción y concientización ciudadana sobre el uso y destino final de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos, englobando educación sobre el impacto ambiental generado por los plásticos no biodegradables y biodegradables y de los recipientes elaborados con poliestireno expandido, así como fomentar la utilización de materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos compostables.
+Los establecimientos deberán incentivar y brindar facilidades al público para llevar sus propias bolsas reutilizables o bien otros elementos que no sean de un solo uso tales como: bolsas de tela, canastas, redes u otras hechas de material reutilizable, para fines de envoltura, trasportación, carga o traslado de productos o mercancías.
+En caso de incumplimiento, se aplicará lo estipulado en el reglamento de la presente Ley.
