@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE JULIO DE 2019)
+ARTÍCULO 63 OCTIES.- El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
