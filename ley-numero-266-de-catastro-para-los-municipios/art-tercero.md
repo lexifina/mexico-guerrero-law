@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. En un plazo que no excederá de treinta días naturales posteriores a la entrada en vigor de la presente ley, el titular del Poder Ejecutivo deberá expedir el reglamento correspondiente.
