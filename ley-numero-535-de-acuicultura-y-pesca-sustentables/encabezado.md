@@ -1,5 +1,4 @@
 LEY NÚMERO 535 DE ACUICULTURA Y PESCA SUSTENTABLES DEL ESTADO DE GUERRERO
-N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO, EL PRESENTE ORDENAMIENTO SURTIRÁ EFECTOS A LOS 30 DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
 Ley publicada en el Alcance II del Periódico Oficial del Estado de Guerrero, el martes 16 de diciembre de 2014.
 SALVADOR ROGELIO ORTEGA MARTÍNEZ, Gobernado (sic) del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 Que el H. Congreso Local, se ha servido comunicarme que,
