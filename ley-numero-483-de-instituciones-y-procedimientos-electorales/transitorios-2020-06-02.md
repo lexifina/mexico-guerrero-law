@@ -1,0 +1,7 @@
+P.O. 2 DE JUNIO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 460 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 13 BIS Y 272 BIS, A LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO, EN VÍAS DE CUMPLIMIENTO A LA RESOLUCIÓN DERIVADA DEL JUICIO PARA LA PROTECCIÓN DE LOS DERECHOS POLÍTICOS ELECTORALES EXPEDIENTE NÚMERO SCM-JDC-402/2018".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+SEGUNDO. Los artículos 13 Bis y 272 Bis, relativos a la postulación de candidatas o candidatos de origen indígena o afromexicana para integrar el Congreso del Estado y los Ayuntamientos, como acciones afirmativas, tendrán vigencia únicamente para el siguiente proceso electoral, para que en vía de cumplimiento, se informe a la Sala Regional del Tribunal Electoral del Poder Judicial de la Federación, derivado del Juicio para la Protección de los Derechos Políticos Electorales expediente número SCM-JDC-402/2018, y hasta en tanto se lleve a cabo la consulta respectiva debido a la emergencia sanitaria provocada por virus SARS-CoV2 (COVID-19).
+TERCERO. Remítase al Gobernador Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+CUARTO. Comuníquese a las autoridades electorales competentes para su conocimiento y efectos legales conducentes.
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
