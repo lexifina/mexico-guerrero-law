@@ -1,6 +1,7 @@
 (ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)
 Artículo 204 Bis. Discriminación.
-Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientas veces el valor de la Unidad de Medida y Actualización, al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2021)
+Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientas veces el valor de la Unidad de Medida y Actualización, al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, tatuajes, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
 I. Niegue a una persona un servicio o una prestación a la que tenga derecho;
 II. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o limite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
 III. Niegue o restrinja derechos educativos.
