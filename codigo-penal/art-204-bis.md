@@ -9,7 +9,3 @@ No serán consideradas discriminatorias todas aquellas medidas tendentes a la pr
 Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
 Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
 Este delito se perseguirá por querella.
-Título Octavo
-Delitos contra la familia
-Capítulo I
-Incumplimiento de la obligación alimentaria
