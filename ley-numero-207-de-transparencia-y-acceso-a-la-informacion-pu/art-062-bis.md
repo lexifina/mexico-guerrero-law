@@ -1,0 +1,13 @@
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)
+Artículo 62 Bis. Para ser Titular del Órgano Interno de Control se deberán cubrir los requisitos siguientes:
+I. Ser ciudadano mexicano residente en el Estado de Guerrero en pleno ejercicio de sus derechos civiles y políticos;
+II. Tener por lo menos treinta y cinco años cumplidos el día de la designación;
+(NOTA: EL 26 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 175/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+III. Gozar de buena reputación Y NO HABER SIDO CONDENADO POR DELITO DOLOSO QUE AMERITE PENA DE PRISIÓN;
+IV. No haber sido Secretario de Estado, Fiscal General del Estado, Oficial Mayor de un ente público, Diputado Local, Gobernador del Estado, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
+V. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos;
+VI. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+(NOTA: EL 26 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 175/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VII. CONTAR CON RECONOCIDA SOLVENCIA MORAL;
+VIII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos (sic) que haya prestado sus servicios al Instituto o haber fungido como consultor o auditor externo del Instituto en lo individual durante ese periodo, y
+IX. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.

@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)
+Artículo 62 Ter. El nombramiento y rendición de cuentas de la persona titular del Órgano Interno de Control se regirá conforme a lo siguiente:
+I. La persona titular del Órgano Interno de Control será designado con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, en vigor;
+II. La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designada por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, en vigor, y
+III. Tendrá un nivel jerárquico igual al de un Director General o su equivalente y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado a que se refieren los artículos 150, 151, 152, 153 de la Constitución Política del Estado Libre y Soberano de Guerrero.

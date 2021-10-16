@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2021)
+Artículo 62 Quinquies. La persona titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero, en vigor; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+Tratándose de las demás servidoras o servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por la persona Titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero, en vigor.
