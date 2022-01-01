@@ -3,6 +3,7 @@
 [N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 10 A LA 12.]
 [N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 16 DE ENERO DE 2018, PÁGINA 6.]
 [N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 13 A LA 15.]
+[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 12 A LA 14.]
 (ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2020)
 ARTÍCULO 107-BIS.- Por el alta o actualización de datos en el servicio de alerta inmobiliaria según condiciones y disponibilidad del servicio se cobrará por folio:
 Suscripción Semestral
