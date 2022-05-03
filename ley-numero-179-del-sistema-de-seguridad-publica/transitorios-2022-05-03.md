@@ -1,0 +1,12 @@
+P.O. 3 DE MAYO DE 2022.
+[N. DE E. TRANSITORIOS DE LA "LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+PRIMERO. La presente Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+SEGUNDO. Lo dispuesto en los artículos 1, fracción II, 8, fracción IV, 17, fracción XXIV, el artículo 30, fracción VIII, de la presente Ley, surtirá sus efectos una vez aprobados los Decretos que contengan las reformas y adiciones reformas al Artículo 14 de la Constitución Política del Estado Libre y Soberano de Guerrero, y a la Ley número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, ambas en materia de Seguridad Comunitaria.
+TERCERO. Se abroga la Ley Número 777 del Sistema de Seguridad Pública del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 168 alcance I, de fecha 24 de agosto de 2018.
+CUARTO. Los ayuntamientos municipales deberán hacer las previsiones presupuestales necesarias para el cumplimiento de la presente Ley, y en un plazo que no exceda de ciento ochenta días a partir de la entrada en vigor de esta Ley, deberán adecuar sus ordenamientos jurídicos a las prescripciones contenidas en la Ley, sin perjuicio de sus facultades constitucionales.
+QUINTO. Se derogan todas las disposiciones legales que contravengan esta Ley; en materia de seguridad privada hasta en tanto no se expida la normatividad específica continuará su vigencia.
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor de la presente Ley se seguirán tramitando hasta su conclusión conforme a las disposiciones de la Ley que se abroga.
+SÉPTIMO. El Congreso del Estado deberá aprobar a más tardar en la segunda quincena del mes de mayo del año 2022, las reformas al Artículo 14 de la Constitución Política del Estado Libre y Soberano de Guerrero, y a la Ley número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, ambas en materia de Seguridad Comunitaria.
+OCTAVO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+NOVENO. En vías de cumplimiento a la Resolución recaída a la Acción de Inconstitucionalidad 81/2018, remítase a la Suprema Corte de Justicia de la Nación para su conocimiento y efectos legales conducentes.
+DÉCIMO. Remítase al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su observancia y conocimiento general.
