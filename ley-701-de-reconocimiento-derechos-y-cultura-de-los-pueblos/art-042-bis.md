@@ -2,6 +2,5 @@
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2018)
 CAPÍTULO II
 SISTEMA DE SEGURIDAD COMUNITARIO INDÍGENA
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)
-Artículo 42 Bis.- El Sistema de Seguridad Comunitario Indígena es un sistema auxiliar de las autoridades en materia de Seguridad Pública Estatal que contribuirá al mantenimiento del orden público y a la conservación de la paz social.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE JULIO DE 2022)
+Artículo 42 Bis.- El Sistema de Seguridad Indígena y Afromexicano llevará un registro de las personas que estén sujetas a su procedimiento, mismo que se informará de inmediato al Consejo Municipal de Seguridad Pública para integrarse al Registro Administrativo correspondiente.
