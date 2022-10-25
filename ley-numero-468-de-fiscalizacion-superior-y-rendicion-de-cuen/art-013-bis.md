@@ -1,3 +1,1 @@
-(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)
-Artículo 13 Bis. La información financiera gubernamental de las cuentas públicas que se presenten a la Auditoría Superior del Estado por parte de las entidades fiscalizables deberá ser dictaminada por profesionistas que acrediten contar con certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública; y, sólo serán válidas las certificaciones cuando sean expedidas por los organismos certificadores que obtengan el Reconocimiento de Idoneidad de la Secretaría de Educación Pública.
-La Auditoria Superior del Estado de Guerrero, llevará un registro de los profesionistas acreditados, y emitirá las bases y requisitos para formar parte del padrón de contadores certificados.
+Artículo 13 Bis. (DEROGADO, P.O. 25 DE OCTUBRE DE 2022)
