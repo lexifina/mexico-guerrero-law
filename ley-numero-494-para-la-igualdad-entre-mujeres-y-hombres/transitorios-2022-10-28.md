@@ -1,0 +1,5 @@
+P.O. 28 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232 POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 4; LAS FRACCIONES IV Y X DEL ARTÍCULO 14; LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 24; LA FRACCIÓN VIII DEL ARTÍCULO 51; EL ARTÍCULO 52; LAS FRACCIONES II, III, IV Y VI DEL ARTÍCULO 53 Y SE RECORRE EL TEXTO QUE CONTENÍA LA FRACCIÓN IV PARA QUEDAR ASENTADO EN LA FRACCIÓN V QUE SE ADICIONA AL ARTÍCULO 4, TODOS DE LA LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
