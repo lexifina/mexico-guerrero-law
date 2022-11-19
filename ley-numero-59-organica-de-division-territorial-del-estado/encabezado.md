@@ -1,4 +1,4 @@
-LEY NUMERO 59 ORGANICA DE DIVISION TERRITORIAL DEL ESTADO
+LEY NÚMERO 59 ORGÁNICA DE DIVISIÓN TERRITORIAL DEL ESTADO
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 20 de diciembre de 1944.
 El Ciudadano General e Ingeniero Gerardo Rafael Catalán Calvo, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a los habitantes del mismo, hace saber:
 Que por la Secretaría del H. Congreso del Estado, se me ha comunicado lo siguiente:
