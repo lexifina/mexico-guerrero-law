@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE FEBRERO DE 2023)
+Artículo 373 Quáter.- La cancelación de la inscripción en el Registro Estatal de Deudores Alimentarios Morosos, procede cuando el deudor demuestre ante la autoridad judicial competente, que ha cumplido con su obligación alimentaria y que la misma se encuentra garantizada en lo futuro o, que ha cesado la obligación alimentaria. La cancelación de la inscripción se tramitará en vía incidental ante el órgano judicial competente.

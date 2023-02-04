@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE FEBRERO DE 2023)
+Artículo 2217 Bis.- Las personas físicas que se encuentren inscritas en el Registro Estatal de Deudores Alimentarios Morosos, no podrán vender bienes inmuebles, salvo que el producto de esa operación sea total o parcialmente destinado al cumplimiento de la obligación con el acreedor alimentario. Para el caso de adquisición de inmuebles, será necesario contar con la constancia de no inscripción que expedirá la Coordinación Técnica del Sistema Estatal del Registro Civil del Estado.
