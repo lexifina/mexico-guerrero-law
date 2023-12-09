@@ -1,14 +1,7 @@
-LEY NÚMERO 260 PARA LA PREVENCIÓN Y ATENCIÓN DEL CÁNCER DE MAMA DEL ESTADO DE GUERRERO
-Ley publicada en el Número 101 del Periódico Oficial del Estado de Guerrero, el viernes 16 de diciembre de 2016.
-LEY NÚMERO 260 PARA LA PREVENCIÓN Y ATENCIÓN DEL CÁNCER DE MAMA DEL ESTADO DE GUERRERO.
-HÉCTOR ANTONIO ASTUDILLO FLORES, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
-Que el H. Congreso Local, se ha servido comunicarme que,
-LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
-C O N S I D E R A N D O
-[...]
-Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
-LEY NÚMERO 260 PARA LA PREVENCIÓN Y ATENCIÓN DEL CÁNCER DE MAMA DEL ESTADO DE GUERRERO.
-TÍTULO PRIMERO
-DISPOSICIONES GENERALES
-Capítulo Primero
-Disposiciones Generales
+LEY DE FOMENTO DE LA CULTURA DE LA LEGALIDAD DEL ESTADO DE MÉXICO
+Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 16 de diciembre de 2014.
+ERUVIEL ÁVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+DECRETO NÚMERO 350
+LA H. "LVIII" LEGISLATURA DEL ESTADO DE MÉXICO
+DECRETA:
