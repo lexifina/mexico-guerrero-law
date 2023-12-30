@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. A partir de la entrada en vigor de la presente ley, los Ayuntamientos y los Concejos Municipales del Estado de Guerrero tendrán un plazo de hasta 180 días naturales para la elaboración de las normas reglamentarias aplicables a los instrumentos de participación ciudadana de competencia municipal contenidos en esta ley.

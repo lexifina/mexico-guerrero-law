@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. Las normas relativas a los instrumentos de Plebiscito, Referéndum, Consulta Popular Guerrerense e Iniciativa Ciudadana, tendrán aplicación a partir de que concluya el término que se prevé en el artículo quinto transitorio.

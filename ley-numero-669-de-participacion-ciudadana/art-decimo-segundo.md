@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.

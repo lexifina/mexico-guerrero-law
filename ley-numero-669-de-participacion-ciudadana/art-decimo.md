@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO. A falta de disposición expresa en esta ley, se aplicará en forma supletoria la Ley Número 483 de Instituciones y Procedimientos Electorales del Estado de Guerrero, y demás leyes relacionadas con la materia.
