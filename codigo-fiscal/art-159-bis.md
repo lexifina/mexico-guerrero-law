@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)
+Artículo 159 Bis. La Dirección General de Cobro Coactivo y Vigilancia de la Secretaría de Finanzas y Administración, en el ejercicio de sus facultades emplearán el procedimiento administrativo de ejecución para hacer efectivo los créditos y multas de carácter no fiscal, a las autoridades administrativas federales y estatales, así como infractores domiciliados dentro de la circunscripción territorial del estado de Guerrero.
