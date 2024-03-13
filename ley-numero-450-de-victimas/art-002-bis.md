@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 12 DE MARZO DE 2024)
+Artículo 2 Bis. Los principios rectores y obligatorios de cumplimiento de la presente ley son:
+Principio de proporcionalidad: Es el criterio con que deberán aplicarse las disposiciones de la presente ley, tomando en cuenta el nivel de riesgo o condición de peligro, daño o afectación en la que se encuentre la persona destinataria a efecto de garantizar su seguridad y reducir los riesgos existentes.
+Perspectiva de género. Aquellas herramientas o métodos que permiten detectar y eliminar las barreras u obstáculos que discriminan a las personas por condición de género.
+Interseccionalidad. Cuando existe una combinación de dos o más condiciones o características en una misma persona como: raza, etnia, clase, género, sexo, orientación sexual, nacionalidad, edad, discapacidad, o cualquier otra que pueda producir algún tipo de discriminación.
+Interés superior de las niñas, niños y adolescentes. Conjunto de acciones y procesos tendientes a garantizar un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan alcanzar el máximo de bienestar posible, en términos de lo establecido en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos.
