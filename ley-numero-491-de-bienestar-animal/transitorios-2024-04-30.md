@@ -1,0 +1,5 @@
+P.O. 30 DE ABRIL DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 491 POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 375; SE ADICIONAN UN PÁRRAFO NOVENO AL ARTÍCULO 47; UN CUARTO PÁRRAFO A LA FRACCIÓN VII, RECORRIÉNDOSE EN CONSECUENCIA, LAS SUBSECUENTES, DEL ARTÍCULO 135; EL ARTÍCULO 170 BIS; UN PÁRRAFO SEGUNDO AL ARTÍCULO 208 Y LOS ARTÍCULOS 229 BIS Y 229 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499 Y LA MODIFICACIÓN DE LA FRACCIÓN XVIII DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO".]
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación y publicación correspondientes.
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
