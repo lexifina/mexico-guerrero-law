@@ -2,6 +2,7 @@
 ARTICULO 15 bis.- El Centro Guerrerense de Artesanías, será el encargado de elaborar, actualizar y operar el Padrón de Artesanos del Estado de Guerrero, el cual contendrá la siguiente información:
 I.- Las ramas artesanales que se producen en el Estado;
 II.- El número de artesanos económicamente activos;
+(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE ABRIL DE 2024)
 III.- Las Organizaciones Artesanales constituidas conforme a las disposiciones aplicables;
 IV.- Los tipos y localización por región de los productos artesanales que permitan su clasificación;
 V.- Las instituciones públicas o privadas que otorgan capacitación artesanal;

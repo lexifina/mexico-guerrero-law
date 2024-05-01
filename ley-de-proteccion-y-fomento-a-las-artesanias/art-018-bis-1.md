@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 24 DE FEBRERO DE 2009)
-ARTICULO 18 bis 1.- El Consejo de Vigilancia se integrará por un Presidente, Un Secretario y dos Vocales, quienes deberán ser electos de entre las Asociaciones u Organizaciones de Artesanos registrados en el Padrón, a excepción de los Vocales quien serán el Presidente de la Comisión de Artesanías del Congreso del Estado y el Comisario designado por la Contraloría General del Estado.
+(REFORMADO, P.O. 30 DE ABRIL DE 2024)
+ARTICULO 18 bis 1.- El Consejo de Vigilancia se integrará por una Presidencia, una secretaría y dos vocalías, quienes deberán ser electos de entre las asociaciones u organizaciones de artesanos registrados en el padrón, a excepción de los vocales quienes serán la Persona Titular de la Comisión de Artesanías del Congreso del Estado y la comisaria o comisario designado por la Contraloría General del Estado.
