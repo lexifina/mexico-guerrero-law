@@ -1,6 +1,7 @@
-(ADICIONADO, P.O. 26 DE JULIO DE 2019)
-ARTÍCULO 63 QUINQUIES. El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2024)
+ARTÍCULO 63 QUINQUIES.- La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+(REFORMADA, P.O. 30 DE ABRIL DE 2024)
+I. La ciudadanía mexicana en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
 II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
 IV. Tener al día de su designación, una antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;

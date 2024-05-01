@@ -1,3 +1,3 @@
-(ADICIONADO, P.O. 26 DE JULIO DE 2019)
-ARTÍCULO 63 NONIES.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión, de conformidad con la Ley Número 464 del Sistema Estatal Anticorrupción y la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
-El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+(REFORMADO, P.O. 30 DE ABRIL DE 2024)
+ARTÍCULO 63 NONIES.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todas las personas servidoras públicas de la Comisión, de conformidad con la Ley Número 464 del Sistema Estatal Anticorrupción y la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+La persona titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
