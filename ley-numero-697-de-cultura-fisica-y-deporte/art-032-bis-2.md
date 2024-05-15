@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE MAYO DE 2024)
+Artículo 32 Bis 2. El Programa Becas Deportivas será de carácter permanente, público y de observancia general en el estado de Guerrero, que tenderá coordinación y de manera complementaria con los programas federales y municipales a la cobertura universal. Su fondo de operación será aprobado por el Poder Legislativo en el Presupuesto de Egresos de cada año y, una vez aprobado el monto del fondo, éste será intransferible hasta el cumplimiento de sus metas.

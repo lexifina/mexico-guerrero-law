@@ -1,0 +1,1 @@
+Artículo 32. La administración del "Instituto del Deporte de Guerrero" estará a cargo de un órgano de gobierno denominado Consejo Directivo, de las estructuras administrativas que se establezcan en el Decreto que crea el INDEG y del Director General del organismo, quien será designado por el titular del Ejecutivo Estatal.

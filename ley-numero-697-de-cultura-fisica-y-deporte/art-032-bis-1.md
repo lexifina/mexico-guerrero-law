@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE MAYO DE 2024)
+Artículo 32 Bis 1. EI Programa Becas Deportivas, como un acto de justicia social, tiene por objeto garantizar el otorgamiento de un apoyo económico a favor de la juventud que participa en el desarrollo integral del estado y que no se encuentre en el padrón de personas beneficiarias de los programas similares de carácter federal o municipal en el estado de Guerrero, conforme a lo dispuesto en el artículo 32 Bis 3 de la presente Ley.
