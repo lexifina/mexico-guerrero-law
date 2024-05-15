@@ -1,0 +1,6 @@
+P.O. 14 DE MAYO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 785 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 790 DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE GUERRERO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+SEGUNDO. A partir de la entrada en vigor de este Decreto, las autoridades estatales y municipales deberán crear o armonizar los reglamentos de construcción, fraccionamiento de terrenos y servicios públicos municipales, así como, las demás disposiciones legales y reglamentarias relacionadas con esta Ley, en un plazo no mayor a ciento ochenta días hábiles.
+TERCERO. La Secretaría de Finanzas y Administración, la Secretaría de Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Desarrollo Regional, deberán conforme a sus atribuciones realizar las acciones administrativas, adecuaciones estructurales y presupuestarias necesarias para la aplicabilidad del presente Decreto.
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno de Estado, así como en la página oficial del Congreso del Estado de Guerrero, para su conocimiento general.
