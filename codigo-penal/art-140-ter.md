@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 28 DE JUNIO DE 2024)
+Artículo 140 Ter. Lesiones provocadas por ácido, sustancias químicas o corrosivas en razón de género.
+Se considera lesiones provocadas por ácido o similares cometidos contra la mujer en razón de su género, cuando ocurra cualquiera de las siguientes circunstancias:
+I. Si entre el sujeto activo y la víctima existió una relación sentimental, sexual, afectiva o de confianza, ya sea de parentesco, laboral, docente o de hecho.
+II. Que previo a la lesión infringida existan antecedentes de violencia contra las mujeres o delitos de género, se hayan cometido amenazas, acoso o cualquier tipo de violencia o acto de agresión en el ámbito familiar, laboral, docente ejercido por parte del sujeto activo contra la mujer.
+En los casos anteriormente descritos se aumentará en dos terceras partes más de la sanción correspondiente al delito de lesiones calificadas y se deberá realizar el pago de la reparación del daño.
+Se considerará Feminicidio en grado de tentativa, cuando las lesiones cometidas contra la mujer provoquen mutación o resección parcial o total en las mamas, alteración en el aparato genital, en las funciones de reproducción sexual o atente contra el ejercicio de la autonomía sexual, cause alguna deformidad o daño físico permanente en algún órgano, provoque daños en extremidades, entorpezca, debilite u ocasione la pérdida parcial o total del oído, vista, habla o incapacidad permanente para trabajar, se impondrá de 12 a 30 años de prisión.
