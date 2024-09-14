@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)
+ARTICULO 51 BIS 28.- Depósito de vehículos: Es la guarda y custodia de vehículos abandonados, accidentados, descompuestos, infraccionados y retenidos en caminos de jurisdicción estatal; así como aquellos que sean remitidos por autoridad competente.
+Causarán abandono los vehículos que se encuentren en los corralones o depósitos de vehículos y que teniendo resolución definitiva por parte de autoridad judicial o administrativa, no sean retirados por las personas propietarias o legítimas poseedoras, dentro del plazo improrrogable de seis meses contados a partir de la fecha de la notificación respectiva.
+Corresponde a la Secretaría General de Gobierno, emitir y publicar el Acuerdo en el que se establezcan los términos, plazos y condiciones a que deberán sujetarse las personas propietarias y poseedoras de vehículos para el retiro de los mismos; así como, el destino y proceder en cuanto a los vehículos abandonados.

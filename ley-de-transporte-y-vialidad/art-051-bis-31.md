@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)
+ARTICULO 51 BIS 31.- Las tarifas de los servicios de arrastre, salvamento y depósito de vehículos, no podrán rebasar las tarifas autorizadas por cada uno de los servicios por la Secretaría General de Gobierno, conjuntamente con la Secretaría de Finanzas y Administración y el Consejo Técnico de Transporte y Vialidad, que deberán ser publicadas en la Ley de Ingresos respectiva.
+Las personas permisionarias y concesionarias de los servicios de arrastre, salvamento y depósito de vehículos, están obligados a respetar en todo momento las tarifas autorizadas. La violación a las tarifas dará lugar a la revocación de los permisos y concesiones otorgadas.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)
+ARTICULO 51 BIS 30.- El Sistema de control, asignación y vigilancia de servicios auxiliares es la plataforma por medio de la cual se llevará el registro de las personas permisionarias y concesionarias de los servicios de arrastre, salvamento y depósito de vehículos en el Estado, tendrá por objeto la asignación y vigilancia del servicio que se preste y su operación estará a cargo de la Comisión Técnica de Transporte y Vialidad. El Reglamento definirá las bases, características, criterios y procedimientos necesarios.
+Las personas usuarias podrán elegir a quien deba prestar el servicio correspondiente; caso contrario, el sistema de control, asignación y vigilancia asignará el servicio.
