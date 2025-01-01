@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)
+ARTÍCULO 84 BIS VII.- Las personas contribuyentes a que se refiere este capítulo efectuarán pagos mensuales mediante declaración, a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda el impuesto, en las instituciones de crédito u oficinas autorizadas.
+El entero mensual será definitivo y se determinará multiplicando la tasa del cinco por ciento a la totalidad de los ingresos obtenidos en el mes de que se trate.
+La autoridad fiscal podrá determinar presuntivamente el monto de este impuesto, en los casos siguientes:
+I. Cuando del resultado del inicio de facultades de la autoridad fiscalizadora, se ponga de manifiesto que su ingreso es superior en más de un veinte por ciento al declarado, y
+II. Para determinar presuntivamente, se tendrán en cuenta las actividades realizadas por la persona contribuyente, los documentos, los protocolos y apéndices relativos, y sistemas en los que consten éstas o utilice para su registro, los honorarios usuales por servicios similares, depósitos en cuentas bancarias y otros datos que puedan utilizarse.
+A los ingresos determinados conforme a las fracciones anteriores se aplicará la tasa del cinco por ciento.

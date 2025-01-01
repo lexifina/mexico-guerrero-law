@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. ANTES ARTÍCULO 62 TER], P.O. 31 DE DICIEMBRE DE 2024)
+ARTÍCULO 62 BIS 1.- La Secretaría de Finanzas y Administración del estado de Guerrero, emitirá reglas de carácter general en las cuales reglamentará la forma de inscripción, suspensión de registro y cancelación de registro ante el Registro Estatal de Contribuyentes de persona física o moral en su carácter de intermediario, promotor o facilitador.
