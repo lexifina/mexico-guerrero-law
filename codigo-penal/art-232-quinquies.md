@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE ABRIL DE 2025)
+Artículo 232 Quinquies. Quien retenga temporalmente a animales de compañía con el propósito de obtener un lucro por concepto de devolución, algún beneficio económico, y/o causar daño o perjuicio a su propietario o a cualquiera otra persona, se le impondrán prisión de seis meses a dos años y una multa de cincuenta a cien veces de la Unidad de Medida y Actualización (UMA). Se aumentarán en una tercera parte la pena y multa mencionada, si se le causan lesiones al animal, y en una mitad si se le provoca la muerte.

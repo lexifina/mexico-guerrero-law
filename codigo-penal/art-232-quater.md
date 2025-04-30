@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE ABRIL DE 2025)
+Artículo 232 Quater. Se sancionará a quien o quienes con ánimo de dominio y sin el consentimiento de la persona que legalmente pueda otorgarlo, se apoderen para sí o para otro de animales de compañía, que se encuentren bajo el cuidado, custodia o propiedad de alguna persona, se les impondrá una pena de seis meses a un año y una multa de cincuenta a cien veces de la Unidad de Medida y Actualización (UMA).
