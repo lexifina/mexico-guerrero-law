@@ -1,0 +1,7 @@
+P.O. 27 DE MAYO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 249 POR EL QUE SE REFORMA EL ARTICULO 194 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, RELATIVO A LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO".]
+ARTÍCULO PRIMERO. En términos del artículo 199, numeral 1, fracción III y 67 párrafo tercero, ambos de la Constitución Política del Estado Libre y Soberano de Guerrero en relación con el diverso 295 de la Ley Orgánica del Poder Legislativo del Estado en vigor, remítase el presente Decreto a los Ayuntamientos de la Entidad para los efectos conducentes.
+ARTÍCULO SEGUNDO. Una vez acontecida la circunstancia prevista en el artículo 199, numeral 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, procédase de inmediato a formular la declaración correspondiente.
+ARTÍCULO TERCERO. Una vez emitida la declaratoria referida en el punto que antecede, de manera inmediata remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales procedentes.
+ARTÍCULO CUARTO. La presente reforma constitucional entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+ARTÍCULO QUINTO. Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
