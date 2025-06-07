@@ -1,0 +1,8 @@
+P.O. 6 DE JUNIO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 734 POR EL QUE SE ADICIONA UN INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 140 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, RELATIVO A LA FISCALÍA ESPECIALIZADA CONTRA EL SECUESTRO Y COMBATE A LA EXTORSIÓN".]
+ARTÍCULO PRIMERO. En términos del artículo 199, numeral 1, fracción III y 67 párrafo tercero, ambos de la Constitución Política del Estado Libre y Soberano de Guerrero en relación con el diverso 295 de la Ley Orgánica del Poder Legislativo del Estado en vigor, remítase el presente Decreto a los Ayuntamientos de la Entidad para los efectos conducentes.
+ARTÍCULO SEGUNDO. Una vez acontecida la circunstancia prevista en el artículo 199, numeral 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, procédase de inmediato a formular la declaración correspondiente.
+ARTÍCULO TERCERO. Emitida la declaratoria referida en el punto que antecede, de manera inmediata remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales procedentes.
+ARTÍCULO CUARTO. La presente reforma constitucional entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado de Guerrero.
+ARTÍCULO QUINTO. El Congreso del Estado Libre y Soberano de Guerrero deberá realizar las adecuaciones legislativas que correspondan a la Ley Orgánica de la Fiscalía General del Estado de Guerrero, a efecto de armonizar el texto constitucional, dentro de los noventa días posteriores a la entrada en vigor.
+ARTÍCULO SEXTO. Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
