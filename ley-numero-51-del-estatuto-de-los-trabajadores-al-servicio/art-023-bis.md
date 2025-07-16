@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE JULIO DE 2025)
+ARTICULO 23 BIS.- Las mujeres trabajadoras a quienes se les haya diagnosticado con dismenorrea primaria o secundaria en grado incapacitante, dispondrán de un permiso con goce de sueldo para ausentarse de su centro de trabajo hasta por dos días cada mes. Para tal efecto, deberán presentar el certificado médico que lo acredite, mismo que será emitido por personal especializado en alguna institución del Sistema de Salud Pública.
