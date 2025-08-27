@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+ARTICULO 160 TER.- La presidencia del Tribunal de Disciplina Judicial se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación, garantizando la paridad de género y no podrá ser reelecta para el periodo inmediato siguiente.

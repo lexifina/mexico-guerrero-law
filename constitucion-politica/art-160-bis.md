@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+ARTICULO 160 BIS.- El Tribunal de Disciplina Judicial se integrará por cinco personas electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en el artículo 97 de esta Constitución.
+Para ser elegibles, las magistradas y magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados en el artículo 96 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades.
+Las magistradas y magistrados durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo.
+Las magistradas y magistrados del Tribunal de Disciplina Judicial ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidas y removidos en los términos del Título Décimo Tercero de esta Constitución.
