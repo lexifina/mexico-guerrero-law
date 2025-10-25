@@ -1,4 +1,4 @@
-LEY DE PREMIOS CIVILES DEL ESTADO DE GUERRERO NUMERO 434
+LEY DE PREMIOS CIVILES DEL ESTADO DE GUERRERO NÚMERO 434
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre 1999.
 RENE JUAREZ CISNEROS, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 Que el H. Congreso Local, se ha servido comunicarme que,
