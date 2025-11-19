@@ -1,7 +1,0 @@
-P.O. 29 DE DICIEMBRE DE 2017.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 646 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO".]
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
-SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
-TERCERO. El Centro de Trasplantes del Estado de Guerrero operará en los términos que establece el Decreto de su creación, emitido en el ejercicio de sus facultades por el Licenciado Héctor Antonio Astudillo Flores, Gobernador Constitucional del Estado de Guerrero el 24 de enero del 2017, publicado en el Periódico Oficial del Gobierno del Estado de Guerrero, número 10, del 03 de febrero del año 2017.
-CUARTO. Los asuntos que se encuentren en trámite en el Consejo Estatal de Trasplantes del Estado de Guerrero, a la entrada en vigor del presente Decreto, serán atendidos por la Centro de Trasplantes del Estado de Guerrero, hasta su conclusión.
-QUINTO. El Centro de Trasplantes del Estado de Guerrero buscará los mecanismos ante las autoridades competentes para la ratificación de los acuerdos, convenios y demás disposiciones en materia de donación, procuración y trasplantes de órganos, tejidos y células, celebrados, previo al Decreto que lo crea, con los Ejecutivos Federal y Estatal y los Municipios de la Entidad, a fin de continuar con las acciones que de ellos emanen.

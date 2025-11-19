@@ -1,3 +1,0 @@
-(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)
-ARTICULO 262 BIS 6. Los establecimientos especializados, clínicas, consultorios optométricos, consultorios oftalmológicos y ópticas, deberán contar con el equipamiento mínimo de aparatos e instrumentos necesarios para la realización de los exámenes de la vista; contarán con la infraestructura sanitaria y se ajustarán a las normas técnicas que establezca ésta Ley.
-Los exámenes de la vista, no podrán realizarse en locales no aptos, como parques, mercados, espacios públicos y otros espacios que carezcan de la infraestructura y equipamiento necesarios; así como la venta de lentes graduados para la corrección de vicios de refracción, ametropías, lentes de contacto y protección.

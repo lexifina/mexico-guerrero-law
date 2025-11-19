@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)
-ARTICULO 262 BIS 2. Las sociedades, asociaciones, colegios o federaciones de especialistas dedicados a la cirugía plástica y reconstructiva, deberán poner a disposición de la Secretarias (sic) de Salud del Estado, el listado que contengan los nombres, datos de los profesionistas que lleven a cabo procedimientos medio-quirúrgicos certificados referido en este capítulo, y será (sic) de reconocimiento público sus certificados o títulos de especialización vigentes, así como el o los procedimientos médico-quirúrgico que lleven a cabo.

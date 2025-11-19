@@ -1,3 +1,0 @@
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)
-ARTICULO 153 QUINQUIES. Para los efectos de esta Ley, se entiende por donación en materia de órganos, tejidos, células y cadáveres, el consentimiento tácito o expreso de la persona para que, en vida después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para trasplantes.
-Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de índole terapéutico.
