@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 95 Bis. El Secretariado Ejecutivo es el encargado de establecer la política estatal en materia de acreditación y certificación para las instituciones de seguridad pública y de los centros de comando y control del estado y los municipios, y la de certificación individual del personal adscrito a estas. La política estatal será aplicable a las personas servidoras públicas en instituciones policiales, ministeriales, periciales y penitenciarias.
+La citada política deberá incluir los tipos de acreditación y la clasificación de los grados de certificación institucional que podrán obtener las instituciones de seguridad pública, así como los estándares y las evaluaciones necesarias para su otorgamiento.
+La acreditación institucional habilitará a una institución de seguridad pública a realizar evaluaciones en una determinada materia y a prestar servicios de certificación de personal.
+La certificación institucional de una institución de seguridad pública reflejará el nivel de cumplimiento de los estándares establecidos por el Secretariado Ejecutivo.

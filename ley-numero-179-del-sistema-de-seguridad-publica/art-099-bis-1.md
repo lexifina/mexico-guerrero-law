@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 99 Bis 1. Las faltas deberán clasificarse en graves y no graves, conforme a los criterios establecidos por la normativa interna de cada institución de seguridad pública, la que deberá establecer de manera expresa y específica esta clasificación y las sanciones aplicables a cada falta, en estricto apego a los principios de legalidad y proporcionalidad.
+Con independencia de la clasificación que se haga en la normativa aplicable, constituye falta grave el incumplimiento de las conductas a que se refieren el párrafo segundo, las fracciones XIV, XLIII, XLIV, XLV del artículo 68.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 112 Bis 1. Las Instituciones de Seguridad Pública, ya sean policiales, de procuración de justicia o penitenciarias, tendrán acceso a la información contenida en los registros y bases de datos del Sistema Estatal de Información, para el ejercicio de sus funciones de prevención, investigación y persecución de los delitos, reinserción social de personas sentenciadas, la sanción de las infracciones administrativas, o aquellas que lleven a cabo como auxiliares en el ejercicio de dichas funciones, de acuerdo con la normativa aplicable.
+El acceso al Sistema Estatal de Información estará condicionado al cumplimiento de esta Ley, los acuerdos generales, convenios y las demás disposiciones aplicables.

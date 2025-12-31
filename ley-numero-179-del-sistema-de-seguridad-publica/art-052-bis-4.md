@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 52 Bis 4. Los Centros de Comando y Control del estado y los municipios deberán ser certificados y acreditados de conformidad a los estándares y las evaluaciones que emita el Secretariado Ejecutivo, según lo dispuesto en el Capítulo IV del Título Quinto de la Ley General del Sistema Nacional de Seguridad Publica
+Los sistemas de monitoreo, videovigilancia y reconocimiento biométrico que utilicen los Centros de Comando y Control, así como la información y bases de datos que se generen de los mismos deberán cumplir con los procesos establecidos en los lineamientos que para tal efecto emita el Secretariado Ejecutivo, los que deberán apegarse a la normativa en materia de protección de datos personales.

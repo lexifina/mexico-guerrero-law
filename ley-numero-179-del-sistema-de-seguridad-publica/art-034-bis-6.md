@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 34 Bis 6. El mando coordinado es el modelo de organización policial en el que se centralizan las labores operativas de seguridad pública en una institución, mientras que las labores administrativas relacionadas con estas continúan bajo la responsabilidad de las autoridades municipales. El mando coordinado se podrá establecer a través de convenios entre la entidad federativa y el municipio.

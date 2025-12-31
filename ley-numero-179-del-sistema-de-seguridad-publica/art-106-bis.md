@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 106 Bis. El área de asuntos internos de las instituciones de seguridad pública podrá especializarse por materia, grado o territorio. Tendrá facultades de supervisión y verificación de los servicios y del cumplimiento normativo, así como para iniciar y tramitar investigaciones sobre conductas sancionables, en cuyo caso, una vez concluida la investigación, y previa garantía de audiencia, remitirá al órgano colegiado competente para el inicio del procedimiento sancionador correspondiente.

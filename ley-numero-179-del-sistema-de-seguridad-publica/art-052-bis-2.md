@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 52 Bis 2. El estado y los municipios a través de sus respectivos Centros de Comando y Control, son responsables de recibir las llamadas de la población sobre emergencias y denuncia anónima, registrarlas, derivarlas a las instancias de atención competentes y darles seguimiento en la atención de los eventos.
+Las instituciones de seguridad pública, así como las corporaciones de bomberos, servicios médicos de emergencia, protección civil y cualquier otra instancia de atención a emergencias, del estado, están obligadas a:
+I. Responder de manera inmediata, oportuna y eficaz a las llamadas de emergencia que les sean turnadas por los Centros de Comando y Control;
+II. Coordinarse entre sí, bajo los principios de cooperación y corresponsabilidad, para garantizar la adecuada atención a las emergencias, evitando duplicidad de esfuerzos y garantizando el uso eficiente de los recursos disponibles;
+III. Implementar los mecanismos necesarios para garantizar la operación continua de los servicios de atención a emergencias, incluyendo la capacitación de personal, el mantenimiento de infraestructura y la actualización tecnológica;
+IV. Informar a los Centros de Comando y Control que hayan turnado la emergencia sobre el estado que guarda y resolución de los eventos atendidos, en los términos que determinen las disposiciones aplicables;
+V. Comisionar el personal adecuado en función del perfil específico a los Centros de Comando y Control para atender los eventos en el marco de sus respectivas competencias y alimentar los sistemas del centro con la información relevante de cada evento que haya sido atendido, y
+VI. Por su parte, las instituciones de procuración de justicia están obligadas a atender las denuncias anónimas que se reciban a través de los Centros de Comando y Control y dar aviso sobre la atención brindada.
+El incumplimiento de estas disposiciones será sancionado conforme a lo establecido en la normativa aplicable.
+El Secretariado Ejecutivo emitirá y publicará las normas técnicas y protocolos de operación relacionados a los Centros de Comando y Control sobre atención a llamadas de emergencia y de denuncia anónima, de despacho de emergencias y de procesos y de definiciones técnicas para los sistemas de videovigilancia.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 66 Bis. La remuneración del personal de las instituciones policiales será acorde con la calidad y riesgo de las funciones en sus rangos y puestos respectivos, así como en las misiones que cumplan, las cuales no podrán ser disminuidas durante el ejercicio de su encargo y deberán garantizar un Sistema Estatal de Retiro Digno.
+De igual forma, las personas titulares de las instituciones policiales tanto del estado como de los municipios, deberán establecer sistemas de seguros para los familiares de los policías, que contemplen el fallecimiento y la incapacidad total o permanente acaecida en el cumplimiento de sus funciones.

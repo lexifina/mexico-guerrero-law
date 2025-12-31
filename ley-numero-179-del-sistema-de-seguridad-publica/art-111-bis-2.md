@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 111 Bis 2. El procedimiento caduca cuando, cualquiera que sea el estado del procedimiento, no se haya efectuado ningún acto procedimental ni promoción durante un término mayor de un año y será dictada por la autoridad a que se le haya caducado. El término debe contarse a partir de la fecha en que se haya realizado el último acto procedimental o en que se haya hecho la última promoción.

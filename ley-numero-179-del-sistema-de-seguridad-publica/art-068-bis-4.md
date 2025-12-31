@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 68 Bis 4. Las unidades de policía del estado y los municipios, encargadas de la investigación de los delitos se deberán coordinar en los términos de esta Ley y demás disposiciones aplicables para el desempeño de sus funciones.
+Las policías de investigación y personas analistas ubicadas dentro de la estructura orgánica de las instituciones de procuración de justicia, y las que presten sus servicios en instituciones penitenciarias se sujetarán a lo dispuesto en el Título Quinto de la Ley General, quedando a cargo de dichas instituciones, en coordinación del Secretariado Ejecutivo, la aplicación de las normas, así como la supervisión y operación de los procedimientos relativos al desarrollo policial.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 95 Bis 1. Las instituciones de seguridad pública deberán cumplir con los estándares y las evaluaciones establecidas por el Secretariado Ejecutivo, así como con los procedimientos, protocolos, las metodologías y directrices que se deriven de dichos estándares en sus diversas materias, incluida la de control de confianza.
+El Secretariado Ejecutivo deberá realizar las evaluaciones del nivel de cumplimiento de los estándares por parte de las instituciones de seguridad pública y, derivado de ellas, otorgar el tipo de acreditación o el grado de certificación institucional que corresponda.

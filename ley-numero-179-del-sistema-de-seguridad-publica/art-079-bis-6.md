@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 79 Bis 6. La convocatoria podrá ser pública y abierta o cerrada, dirigida a toda persona aspirante que cumpla con los requisitos, y que desee ingresar a las instituciones de seguridad pública o en su caso, participar en los procesos de promoción respectivos, cuidando que en la misma no exista discriminación por razón de sexo, género, religión, estado civil, origen étnico o condición social, o cualquier otra que viole el principio de equidad e igualdad de oportunidades.

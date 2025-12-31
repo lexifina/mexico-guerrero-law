@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2025)
+Artículo 132 Bis 1. El Registro de Armas de Fuego Decomisadas por las Instituciones de Seguridad Pública Estatales y Municipales deberá contar con los mecanismos tecnológicos necesarios para garantizar la interoperabilidad y el intercambio de información con la Secretaría de Seguridad Pública del Estado y la Fiscalía General del Estado.
+Las Instituciones de Seguridad Pública Estatales y Municipales deberán notificar a la Fiscalía General del Estado de cada decomiso de armas de fuego que realicen, en un plazo no mayor a veinticuatro horas contadas a partir de que éste ocurra.
