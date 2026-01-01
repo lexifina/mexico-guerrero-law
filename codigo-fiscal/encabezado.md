@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420
 Código publicado en la Edición Número 103 del Alcance V del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2022.
 MTRA. EVELYN CECIA SALGADO PINEDA, Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed,

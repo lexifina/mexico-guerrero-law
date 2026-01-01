@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)
+Artículo 150 Bis. Se impondrá sanción de cuatro meses a dos años de prisión, a la persona y/o tercero que en perjuicio al Fisco del estado realice por acción u omisión y sin autorización de su superior, modifique, destruya, altere, copie o provoque perdida de información contenida en sistemas o equipos de informática pertenecientes a la autoridad fiscal, que estén protegidos por algún sistema de seguridad.

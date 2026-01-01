@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)
+Artículo 150 Bis 1. Son responsables las personas servidoras públicas y se considerará falta administrativa grave, cuando:
+I. A través del uso de contraseñas, claves o registros otorgadas por la institución; modifique o altere datos mediante medios electrónicos que comprometan la regularización de la persona contribuyente ante dicha institución, se le impondrá una multa equivalente de 80 a 100 UMAS o una pena de 3 meses a 2 años de prisión;
+II. Transfiera, posea o utilice datos identificativos de otra persona con la intención de cometer, intentar o favorecer cualquier actividad ilícita, para beneficio propio o de un tercero, se le impondrá una multa de 80 a 120 UMAS o una pena de 6 meses a 2 años de prisión;
+III. Por sí mismo o por tercera persona destruya, sustraiga, oculte o utilice de manera ilícita información o documentación, que se encuentre bajo su custodia a la cual tenga acceso o conocimiento, en razón de su cargo o comisión, se le impondrá una multa de 60 a 90 UMAS hasta una pena de 1 año de prisión;
+IV. Teniendo conocimiento por razón de su empleo, cargo o comisión, provoque un daño al patrimonio o los intereses de la dependencia o de la administración pública, por cualquier acto u omisión y no proporcione información a su superior jerárquico o evite realizarlo, se le impondrá una multa de 120 a 160 UMAS hasta una pena de 2 años de prisión, y
+V. Apruebe un pago, suscriba el comprobante u orden de pago por servicios prestados no autorizados por su superior jerárquico, se le impondrá una multa de 80 a 100 UMAS o una pena de 1 año de prisión.
+La sanción se aplicará de acuerdo con el valor de los bienes y del perjuicio cometido.
