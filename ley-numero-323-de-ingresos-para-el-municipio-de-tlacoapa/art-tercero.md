@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ayuntamiento dará a conocer a los contribuyentes, las cantidades de las cuotas y tarifas en el transcurso del mes de enero, las cuales estarán dentro de los límites establecidos en el artículo 5 de esta Ley, mismas que son aprobadas por el Cabildo y remitidas al H. Congreso del Estado.

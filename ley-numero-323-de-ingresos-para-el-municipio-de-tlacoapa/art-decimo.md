@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO.- El ingreso por concepto de impuestos, derechos y aprovechamientos, que recaude el Ayuntamiento en el ejercicio fiscal 2026, aplicará el redondeo cuando en el cálculo que resulte con centavos de 0.01 a 0.99 bajará al entero inmediato.

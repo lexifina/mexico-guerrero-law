@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- Los contribuyentes que enteren durante el primer mes del año, la totalidad del impuesto predial del ejercicio, gozarán de un descuento del 12%, y en el segundo mes un descuento del 10% exceptuando a los contribuyentes señalados en el artículo 8 fracción VIII de la presente Ley.

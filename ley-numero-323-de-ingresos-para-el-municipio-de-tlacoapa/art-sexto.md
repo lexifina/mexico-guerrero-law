@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los porcentajes que establecen los artículos 73, 74, 76 y 87 de la presente Ley, variarán durante el ejercicio en base a las modificaciones que sufran los por cientos de recargos que señala la Ley de Ingresos de la Federación vigente.
