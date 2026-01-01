@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. La disposición que establece la (fracción V, articulo 19, del Reglamento de la Ley número 266, de Catastro para los (sic) Municipio del Estado de Guerrero), quedará sin efectos, en concordancia con el oficio DCU/044/2021, de fecha 10 de noviembre del 2021, signado por la Mtra. Abelina López Rodríguez.

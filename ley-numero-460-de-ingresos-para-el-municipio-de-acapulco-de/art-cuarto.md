@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. El Ayuntamiento dará a conocer a los contribuyentes la conversión a pesos de las cuotas y tarifas en el transcurso del mes de febrero, quedando apercibidos que las cuotas y tarifas citadas solo tendrán movimientos por la dinámica que genere el crecimiento del Índice Nacional Inflacionario.
