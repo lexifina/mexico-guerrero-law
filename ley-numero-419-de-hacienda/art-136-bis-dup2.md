@@ -1,0 +1,10 @@
+[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 41 A LA 42.]
+[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINAS DE LA 28 A LA 29.]
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2025)
+CAPÍTULO XIX
+DERECHOS POR SERVICIOS PROPORCIONADOS POR EL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)
+ARTÍCULO 136 BIS II.- Por los Derechos por Servicios Prestados del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública se cobrará en pesos los siguientes conceptos:
+I. Evaluaciones en Control de Confianza:
+a) Evaluación Integral, $7,000.00.
+b) Evaluación (LOC.) $3,000.00

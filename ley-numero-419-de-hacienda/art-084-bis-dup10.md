@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2025)
+ARTÍCULO 84 BIS XIII.- Las personas contribuyentes sujetas de este impuesto efectuarán sus pagos, a más tardar el día 17 del mes siguiente a que realicen u ocurran las actividades a que se refiere el artículo 84 Bis IX de esta Ley, mediante declaración que presentarán en las formas y medios autorizados por la Secretaría de Finanzas y Administración del estado de Guerrero, según lo dispuesto en el Código Fiscal del Estado de Guerrero Número 420.
+Las personas contribuyentes deberán proporcionar la información que se les solicite en las formas que al efecto apruebe la Secretaría de Finanzas y Administración del estado de Guerrero.
