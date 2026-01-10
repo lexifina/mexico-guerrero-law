@@ -2,7 +2,6 @@
 (ADICIONADO, P.O. 30 DE ABRIL DE 2024)
 Artículo 170 Bis.- A quien elabore, falsifique, altere o posea medicamentos clonados, alterados y/o caducados con fines de venta, comercialización, circulación y/o distribución de éstos en vía pública; de manera directa o en establecimientos no autorizados, así como el decomiso de los productos u objetos del delito, se le impondrá una pena de tres a ocho años de prisión y una multa de ciento cincuenta a cuatrocientos del valor diario de la Unidad de Medida y Actualización.
 Estas sanciones serán independientes de las que establezca el Artículo 464 Bis de la la (sic) Ley General de Salud y las que se desprendan tanto de la Ley de Salud del Estado y la Ley de Responsabilidades Administrativas del Estado de Guerrero.
-Título Cuarto
-Delitos contra el libre desarrollo de la personalidad
-Capítulo I
-Corrupción de personas menores de edad o de quienes no tienen capacidad para comprender el significado del hecho
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2026)
+Capítulo III
+De la administración no consentida de sustancias
