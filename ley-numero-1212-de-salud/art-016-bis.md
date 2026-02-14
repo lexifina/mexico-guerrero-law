@@ -1,1 +1,0 @@
-Artículo 16 bis.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
