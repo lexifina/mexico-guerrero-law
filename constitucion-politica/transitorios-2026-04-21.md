@@ -1,0 +1,8 @@
+P.O. 21 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 255 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO, EL NUMERAL 1 Y SUS FRACCIONES I, II Y III, ASÍ COMO EL NUMERAL 2, Y SE ADICIONA LA FRACCIÓN IV DEL NUMERAL I DEL ARTÍCULO 199 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin perjuicio de lo previsto en los transitorios legales.
+SEGUNDO. La Secretaría de Asuntos Parlamentarios deberá generar un expediente por cada uno de los Decretos de reformas y/o adiciones a la Constitución Política del Estado Libre y Soberano de Guerrero, en el que se incluyan los oficios de notificación a los Ayuntamientos, las Actas de Sesiones de Cabildo que se hayan recibido al respecto, la certificación del término del periodo para emitir su voto y, en su caso, el listado de los Ayuntamientos que no hayan emitido el acta de cabildo correspondiente.
+TERCERO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+CUARTO. Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
+QUINTO. Remítase a la Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado para conocimiento general.
+SEXTO. Remítase a los Ayuntamientos Municipales para su conocimiento y efectos legales.
