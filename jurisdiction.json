@@ -1,0 +1,11 @@
+{
+  "path": "mx-gro",
+  "code": "MX-GRO",
+  "name": "Guerrero",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-guerrero-law",
+  "build": "built: constitution, codes and laws (156 ordenamientos, 711 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}
