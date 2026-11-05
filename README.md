@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-156 ordenamientos with 711 versions so far: the constitution first, then the codes and laws in force, added in parts. Regulations, decrees and repealed laws are not included yet.
+179 ordenamientos with 734 versions so far: the constitution first, then the codes and laws in force, added in parts. Regulations, decrees and repealed laws are not included yet.
 
 | Folder | Ordenamiento | Versions | History |
 | --- | --- | ---: | --- |
@@ -168,6 +168,29 @@ The text is in Spanish, exactly as the source prints it.
 | `ley-numero-831-de-consulta-a-las-personas-con-discapacidad/` | LEY NUMERO 831, DE CONSULTA A LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO | 1 | as first published: 17 July 2024 |
 | `ley-numero-832-para-la-atencion-inclusion-y-proteccion-a-per/` | LEY NUMERO 832 PARA LA ATENCION, INCLUSION Y PROTECCION A PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA DEL ESTADO DE GUERRERO | 1 | as first published: 10 August 2024 |
 | `ley-numero-833-registral/` | LEY NUMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO | 2 | as first published, then each reform: 14 December 2024 to 22 April 2026 |
+| `ley-reglamentaria-ejercicio-profesional/` | LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO | 1 | oldest version available: current Congress text, from 1991-08-24 |
+| `ley-bases-inscripcion-predios-suburbanos-rusticos/` | LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCION DE LOS PREDIOS SUB-URBANOS Y RUSTICOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD | 1 | oldest version available: current Congress text, from 2020-01-01 |
+| `ley-servicios-municipales-limpia-acapulco/` | LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DEL AYUNTAMIENTO DE ACAPULCO DE JUAREZ "SERVICIOS MUNICIPALES DE LIMPIA DE ACAPULCO | 1 | oldest version available: current Congress text, from 1991-03-09 |
+| `ley-servicios-municipales-limpia-taxco/` | LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DEL AYUNTAMIENTO DE TAXCO DE ALARCON "SERVICIOS MUNICIPALES DE LIMPIA DE TAXCO | 1 | oldest version available: current Congress text, from 1991-03-09 |
+| `ley-organismos-publicos-participacion-social/` | LEY QUE INSTITUYE LOS ORGANISMOS PUBLICOS DE PARTICIPACION SOCIAL Y FIJA LAS BASES PARA SU REGULACION | 1 | oldest version available: current Congress text, from 1987-10-20 |
+| `ley-numero-41-derecho-de-via-carreteras-caminos-locales/` | LEY NUMERO 41 QUE ESTABLECE EL DERECHO DE VIA DE CARRETERAS O CAMINOS LOCALES | 1 | oldest version available: current Congress text, from 1984-10-13 |
+| `ley-numero-332-sistema-estatal-asistencia-social/` | LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NUMERO 332 | 1 | oldest version available: current Congress text, from 2024-03-12 |
+| `ley-numero-375-derechos-personas-adultas-mayores/` | LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO | 1 | oldest version available: current Congress text, from 2026-10-24 |
+| `ley-numero-435-patrimonio-beneficencia-publica/` | LEY QUE CREA LA ADMINISTRACION DEL PATRIMONIO DE LA BENEFICENCIA PUBLICA DEL ESTADO DE GUERRERO NUMERO 435 | 1 | oldest version available: current Congress text, from 1999-10-13 |
+| `ley-numero-489-proteccion-personas-situacion-riesgo/` | LEY NÚMERO 489 PARA LA PROTECCIÓN DE PERSONAS EN SITUACIÓN DE RIESGO DEL ESTADO DE GUERRERO | 1 | oldest version available: current Congress text, from 2014-08-27 |
+| `ley-numero-848-defensoria-publica/` | LEY NÚMERO 848 DE DEFENSORÍA PÚBLICA DEL ESTADO DE GUERRERO | 1 | oldest version available: current Congress text, from 2016-08-13 |
+| `ley-numero-849-movilidad-seguridad-vial/` | LEY NÚMERO 849 DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE GUERRERO | 1 | oldest version available: current Congress text, from 2026-05-12 |
+| `ley-numero-850-seguridad-privada/` | LEY NÚMERO 850 DE SEGURIDAD PRIVADA DEL ESTADO DE GUERRERO | 1 | oldest version available: current Congress text, from 2024-12-18 |
+| `ley-numero-861-gestion-riesgos-proteccion-civil/` | LEY NÚMERO 861 DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO. | 1 | oldest version available: current Congress text, from 2026-10-20 |
+| `ley-numero-864-operaciones-inmobiliarias/` | LEY NÚMERO 864 DE OPERACIONES INMOBILIARIAS DEL ESTADO DE GUERRERO | 1 | oldest version available: current Congress text, from 2021-09-01 |
+| `ley-numero-877-expropiacion/` | LEY NÚMERO 877 DE EXPROPIACIÓN PARA EL ESTADO DE GUERRERO | 1 | oldest version available: current Congress text, from 2008-12-31 |
+| `ley-numero-878-equilibrio-ecologico-proteccion-ambiente/` | LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO | 1 | oldest version available: current Congress text, from 2024-07-05 |
+| `ley-numero-55-fondo-auxiliar-administracion-justicia/` | LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 55 | 1 | oldest version available: current Congress text, from 2017-07-19 |
+| `ley-numero-129-organica-poder-judicial/` | LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 129 | 1 | oldest version available: current Congress text, from 2022-04-30 |
+| `ley-numero-242-organica-administracion-publica/` | LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 242 | 1 | oldest version available: current Congress text, from 2025-12-31 |
+| `ley-numero-457-organica-tribunal-electoral/` | LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 457 | 1 | oldest version available: current Congress text, from 2017-08-30 |
+| `ley-numero-467-organica-tribunal-justicia-administrativa/` | LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUERRERO NÚMERO 467 | 1 | oldest version available: current Congress text, from 2018-01-01 |
+| `ley-numero-500-organica-fiscalia-general/` | LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500 | 1 | oldest version available: current Congress text, from 2024-03-12 |
 
 ## Source
 
@@ -197,3 +220,9 @@ The author of a commit is the publication that changed the text (a decree, an er
 ## Limits
 
 This is not an official publication. The binding text is the one published in the state's official gazette (Periódico Oficial). The history starts with the oldest text SCJN holds for each ordenamiento, which for many is later than its enactment. Only the ordenamientos listed above are included.
+
+## Congress current-text additions
+
+The state Congress supplies 23 additional acts as single-file current-text records, including recitals and transitorios. Each has one version, labelled oldest version available and dated by the PDF’s own latest reform or original publication and express commencement provision. These additions do not reconstruct earlier wording.
+
+Source: [H. Congreso del Estado de Guerrero, Legislación](https://congresogro.gob.mx/legislacion/leyes-ordinarias.php), checked 5 November 2026. The existing constitution, codes and other laws retain their SCJN history.
