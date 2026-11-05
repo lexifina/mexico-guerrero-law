@@ -185,6 +185,34 @@
     "ley-numero-833-registral"
    ],
    "sha256": "5b71d61fc7d8afea5c3ec6e4cfc24c3d5e4af1c5f8e95d85f9254145b39ec95c"
+  },
+  "40-congreso-breadth-01.json": {
+   "acts": [
+    "ley-bases-inscripcion-predios-suburbanos-rusticos",
+    "ley-numero-129-organica-poder-judicial",
+    "ley-numero-242-organica-administracion-publica",
+    "ley-numero-332-sistema-estatal-asistencia-social",
+    "ley-numero-375-derechos-personas-adultas-mayores",
+    "ley-numero-41-derecho-de-via-carreteras-caminos-locales",
+    "ley-numero-435-patrimonio-beneficencia-publica",
+    "ley-numero-457-organica-tribunal-electoral",
+    "ley-numero-467-organica-tribunal-justicia-administrativa",
+    "ley-numero-489-proteccion-personas-situacion-riesgo",
+    "ley-numero-500-organica-fiscalia-general",
+    "ley-numero-55-fondo-auxiliar-administracion-justicia",
+    "ley-numero-848-defensoria-publica",
+    "ley-numero-849-movilidad-seguridad-vial",
+    "ley-numero-850-seguridad-privada",
+    "ley-numero-861-gestion-riesgos-proteccion-civil",
+    "ley-numero-864-operaciones-inmobiliarias",
+    "ley-numero-877-expropiacion",
+    "ley-numero-878-equilibrio-ecologico-proteccion-ambiente",
+    "ley-organismos-publicos-participacion-social",
+    "ley-reglamentaria-ejercicio-profesional",
+    "ley-servicios-municipales-limpia-acapulco",
+    "ley-servicios-municipales-limpia-taxco"
+   ],
+   "sha256": "23332dc35cbd6f156b08a1342b3b21f4be8645985226bf37b03c3b945245d361"
   }
  },
  "schema": 1

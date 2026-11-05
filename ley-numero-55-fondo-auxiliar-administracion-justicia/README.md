@@ -1,0 +1,7 @@
+# LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 55
+
+LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 55 · 1 versions, from 2017-07-19 (latest in force: 2017-07-19) · <https://congresogro.gob.mx/legislacion/organicas/ARCHI/LEY-ORGANICA-DEL-FONDO-AUXILIAR-PARA-LA-ADMINISTRACION-DE-JUSTICIA-DEL-ESTADO-DE-GUERRERO-55-2021-03-10.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Texto completo | [texto.md](texto.md) | 0 |  |

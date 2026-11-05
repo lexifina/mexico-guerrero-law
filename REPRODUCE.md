@@ -7,6 +7,8 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Suprema Corte de Justicia de la Nación: Legislación (state compilation) | <https://legislacion.scjn.gob.mx/> | 2026-10-30 | Ley Federal del Derecho de Autor, art. 14, fr. VIII: legislative texts are not protected. SCJN terms: copying for informative and academic purposes, with no commercial use. |
+| H. Congreso del Estado de Guerrero, Legislación | <https://congresogro.gob.mx/legislacion/leyes-ordinarias.php> | 2026-11-05 | Legislative text is excluded from copyright protection by Ley Federal del Derecho de Autor, artículo 14, fracción VIII. |
+| H. Congreso del Estado de Guerrero, Legislación | <https://congresogro.gob.mx/legislacion/leyes-organicas.php> | 2026-11-05 | Legislative text is excluded from copyright protection by Ley Federal del Derecho de Autor, artículo 14, fracción VIII. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -170,12 +172,35 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-numero-831-de-consulta-a-las-personas-con-discapacidad` | LEY NUMERO 831, DE CONSULTA A LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO | 1 | 2024-07-17 to 2024-07-17 |
 | `ley-numero-832-para-la-atencion-inclusion-y-proteccion-a-per` | LEY NUMERO 832 PARA LA ATENCION, INCLUSION Y PROTECCION A PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA DEL ESTADO DE GUERRERO | 1 | 2024-08-10 to 2024-08-10 |
 | `ley-numero-833-registral` | LEY NUMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO | 2 | 2024-12-14 to 2026-04-22 |
+| `ley-reglamentaria-ejercicio-profesional` | LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO | 1 | 1991-08-24 to 1991-08-24 |
+| `ley-bases-inscripcion-predios-suburbanos-rusticos` | LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCION DE LOS PREDIOS SUB-URBANOS Y RUSTICOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD | 1 | 2020-01-01 to 2020-01-01 |
+| `ley-servicios-municipales-limpia-acapulco` | LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DEL AYUNTAMIENTO DE ACAPULCO DE JUAREZ "SERVICIOS MUNICIPALES DE LIMPIA DE ACAPULCO | 1 | 1991-03-09 to 1991-03-09 |
+| `ley-servicios-municipales-limpia-taxco` | LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DEL AYUNTAMIENTO DE TAXCO DE ALARCON "SERVICIOS MUNICIPALES DE LIMPIA DE TAXCO | 1 | 1991-03-09 to 1991-03-09 |
+| `ley-organismos-publicos-participacion-social` | LEY QUE INSTITUYE LOS ORGANISMOS PUBLICOS DE PARTICIPACION SOCIAL Y FIJA LAS BASES PARA SU REGULACION | 1 | 1987-10-20 to 1987-10-20 |
+| `ley-numero-41-derecho-de-via-carreteras-caminos-locales` | LEY NUMERO 41 QUE ESTABLECE EL DERECHO DE VIA DE CARRETERAS O CAMINOS LOCALES | 1 | 1984-10-13 to 1984-10-13 |
+| `ley-numero-332-sistema-estatal-asistencia-social` | LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NUMERO 332 | 1 | 2024-03-12 to 2024-03-12 |
+| `ley-numero-375-derechos-personas-adultas-mayores` | LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO | 1 | 2026-10-24 to 2026-10-24 |
+| `ley-numero-435-patrimonio-beneficencia-publica` | LEY QUE CREA LA ADMINISTRACION DEL PATRIMONIO DE LA BENEFICENCIA PUBLICA DEL ESTADO DE GUERRERO NUMERO 435 | 1 | 1999-10-13 to 1999-10-13 |
+| `ley-numero-489-proteccion-personas-situacion-riesgo` | LEY NÚMERO 489 PARA LA PROTECCIÓN DE PERSONAS EN SITUACIÓN DE RIESGO DEL ESTADO DE GUERRERO | 1 | 2014-08-27 to 2014-08-27 |
+| `ley-numero-848-defensoria-publica` | LEY NÚMERO 848 DE DEFENSORÍA PÚBLICA DEL ESTADO DE GUERRERO | 1 | 2016-08-13 to 2016-08-13 |
+| `ley-numero-849-movilidad-seguridad-vial` | LEY NÚMERO 849 DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE GUERRERO | 1 | 2026-05-12 to 2026-05-12 |
+| `ley-numero-850-seguridad-privada` | LEY NÚMERO 850 DE SEGURIDAD PRIVADA DEL ESTADO DE GUERRERO | 1 | 2024-12-18 to 2024-12-18 |
+| `ley-numero-861-gestion-riesgos-proteccion-civil` | LEY NÚMERO 861 DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO. | 1 | 2026-10-20 to 2026-10-20 |
+| `ley-numero-864-operaciones-inmobiliarias` | LEY NÚMERO 864 DE OPERACIONES INMOBILIARIAS DEL ESTADO DE GUERRERO | 1 | 2021-09-01 to 2021-09-01 |
+| `ley-numero-877-expropiacion` | LEY NÚMERO 877 DE EXPROPIACIÓN PARA EL ESTADO DE GUERRERO | 1 | 2008-12-31 to 2008-12-31 |
+| `ley-numero-878-equilibrio-ecologico-proteccion-ambiente` | LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO | 1 | 2024-07-05 to 2024-07-05 |
+| `ley-numero-55-fondo-auxiliar-administracion-justicia` | LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 55 | 1 | 2017-07-19 to 2017-07-19 |
+| `ley-numero-129-organica-poder-judicial` | LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 129 | 1 | 2022-04-30 to 2022-04-30 |
+| `ley-numero-242-organica-administracion-publica` | LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 242 | 1 | 2025-12-31 to 2025-12-31 |
+| `ley-numero-457-organica-tribunal-electoral` | LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 457 | 1 | 2017-08-30 to 2017-08-30 |
+| `ley-numero-467-organica-tribunal-justicia-administrativa` | LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUERRERO NÚMERO 467 | 1 | 2018-01-01 to 2018-01-01 |
+| `ley-numero-500-organica-fiscalia-general` | LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500 | 1 | 2024-03-12 to 2024-03-12 |
 
-The build made 640 commits:
+The build made 663 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 156 | first version of an act |
+| 179 | first version of an act |
 | 484 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -183,7 +208,7 @@ Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 67 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 642 laws in the record.
-- 1255 tags.
+- 1278 tags.
 
 ## Dates
 
@@ -195,15 +220,15 @@ When a law gives no date of its own, the default rule applies: Decrees take effe
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4a4a3372a818b1d613a8507ba5cb2d290366b3f7de98151c3a32cb5baa18ea37` (23477447 bytes).
+- Corpus: sha256 `23485e2da0ecb6def4f0b12c830c27f461c42545485d86ea5ee1c1c74a8d751c` (25745650 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-711 versions of 156 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+734 versions of 179 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 663 history commits and 1278 tags (history tip `f8b6b231751785f962dda0499f2d2d89a0297d24`).
 
 ## Decisions made by hand
 
@@ -213,6 +238,30 @@ No second build of this corpus has been compared yet.
 - Units: the heading and preamble (encabezado), one file per article (with the headings and editor's notes printed just before it), the original transitorios, and the transitorios of each reform decree under its publication date. The banner "ÚLTIMA REFORMA PUBLICADA ..." / "TEXTO ORIGINAL" is left out; editor's notes ("(REFORMADO, P.O. ...)", "N. DE E.") stay as printed.
 - An act's first commit is its first publication only when SCJN's oldest record is the act itself and its text is marked "TEXTO ORIGINAL"; otherwise it is the oldest version available, naming the publications before it.
 - Codes of conduct and ethics are left out; only ordenamientos SCJN marks as in force are included.
+- LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO: In-force basis: the PDF gives reform publication 1991-08-23; its own transitorio provides 1 calendar days after publication, yielding 1991-08-24. No retrieval-day substitution.
+- LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCION DE LOS PREDIOS SUB-URBANOS Y RUSTICOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD: In-force basis: the PDF gives reform publication 2019-12-20; its own transitorio provides explicit commencement on 2020-01-01, yielding 2020-01-01. No retrieval-day substitution.
+- LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DEL AYUNTAMIENTO DE ACAPULCO DE JUAREZ "SERVICIOS MUNICIPALES DE LIMPIA DE ACAPULCO: In-force basis: the PDF gives original publication 1991-03-08; its own transitorio provides 1 calendar days after publication, yielding 1991-03-09. No retrieval-day substitution.
+- LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DEL AYUNTAMIENTO DE TAXCO DE ALARCON "SERVICIOS MUNICIPALES DE LIMPIA DE TAXCO: In-force basis: the PDF gives original publication 1991-03-08; its own transitorio provides 1 calendar days after publication, yielding 1991-03-09. No retrieval-day substitution.
+- LEY QUE INSTITUYE LOS ORGANISMOS PUBLICOS DE PARTICIPACION SOCIAL Y FIJA LAS BASES PARA SU REGULACION: In-force basis: the PDF gives original publication 1987-10-19; its own transitorio provides 1 calendar days after publication, yielding 1987-10-20. No retrieval-day substitution.
+- LEY NUMERO 41 QUE ESTABLECE EL DERECHO DE VIA DE CARRETERAS O CAMINOS LOCALES: In-force basis: the PDF gives original publication 1984-09-28; its own transitorio provides 15 calendar days after publication, yielding 1984-10-13. No retrieval-day substitution.
+- LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NUMERO 332: In-force basis: the PDF gives reform publication 2024-03-12; its own transitorio provides effective on publication, yielding 2024-03-12. No retrieval-day substitution.
+- LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO: In-force basis: the PDF gives reform publication 2026-10-23; its own transitorio provides 1 calendar days after publication, yielding 2026-10-24. No retrieval-day substitution.
+- LEY QUE CREA LA ADMINISTRACION DEL PATRIMONIO DE LA BENEFICENCIA PUBLICA DEL ESTADO DE GUERRERO NUMERO 435: In-force basis: the PDF gives original publication 1999-10-12; its own transitorio provides 1 calendar days after publication, yielding 1999-10-13. No retrieval-day substitution.
+- LEY NÚMERO 489 PARA LA PROTECCIÓN DE PERSONAS EN SITUACIÓN DE RIESGO DEL ESTADO DE GUERRERO: In-force basis: the PDF gives original publication 2014-08-26; its own transitorio provides 1 calendar days after publication, yielding 2014-08-27. No retrieval-day substitution.
+- LEY NÚMERO 848 DE DEFENSORÍA PÚBLICA DEL ESTADO DE GUERRERO: In-force basis: the PDF gives reform publication 2016-08-12; its own transitorio provides 1 calendar days after publication, yielding 2016-08-13. No retrieval-day substitution.
+- LEY NÚMERO 849 DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE GUERRERO: In-force basis: the PDF gives reform publication 2026-03-13; its own transitorio provides 60 calendar days after publication, yielding 2026-05-12. No retrieval-day substitution.
+- LEY NÚMERO 850 DE SEGURIDAD PRIVADA DEL ESTADO DE GUERRERO: In-force basis: the PDF gives original publication 2024-08-20; its own transitorio provides 120 calendar days after publication, yielding 2024-12-18. No retrieval-day substitution.
+- LEY NÚMERO 861 DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO.: In-force basis: the PDF gives reform publication 2026-10-20; its own transitorio provides effective on publication, yielding 2026-10-20. No retrieval-day substitution.
+- LEY NÚMERO 864 DE OPERACIONES INMOBILIARIAS DEL ESTADO DE GUERRERO: In-force basis: the PDF gives reform publication 2021-08-31; its own transitorio provides 1 calendar days after publication, yielding 2021-09-01. No retrieval-day substitution.
+- LEY NÚMERO 877 DE EXPROPIACIÓN PARA EL ESTADO DE GUERRERO: In-force basis: the PDF gives original publication 2008-12-30; its own transitorio provides 1 calendar days after publication, yielding 2008-12-31. No retrieval-day substitution.
+- LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO: In-force basis: the PDF gives reform publication 2024-07-05; its own transitorio provides effective on publication, yielding 2024-07-05. No retrieval-day substitution.
+- LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 55: In-force basis: the PDF gives reform publication 2017-07-18; its own transitorio provides 1 calendar days after publication, yielding 2017-07-19. No retrieval-day substitution.
+- LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 129: In-force basis: the PDF gives reform publication 2022-04-29; its own transitorio provides 1 calendar days after publication, yielding 2022-04-30. No retrieval-day substitution.
+- LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 242: In-force basis: the PDF gives reform publication 2025-12-30; its own transitorio provides 1 calendar days after publication, yielding 2025-12-31. No retrieval-day substitution.
+- LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 457: In-force basis: the PDF gives reform publication 2017-08-29; its own transitorio provides 1 calendar days after publication, yielding 2017-08-30. No retrieval-day substitution.
+- LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUERRERO NÚMERO 467: In-force basis: the PDF gives original publication 2017-07-18; its own transitorio provides explicit commencement on 2018-01-01, yielding 2018-01-01. No retrieval-day substitution.
+- LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500: In-force basis: the PDF gives reform publication 2024-03-12; its own transitorio provides effective on publication, yielding 2024-03-12. No retrieval-day substitution.
+- Congress additions are single-file current-text acts; repeated running titles, publisher footers, page numbers and decorative logos are excluded; all recitals, articles, textual annexes and transitorios are retained.
 
 ## What AI did and did not do
 
@@ -224,3 +273,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which ordenamientos to include; it wrote no law text. Every word of law comes from the SCJN compilation's consolidated texts.
+- GPT-6 selected official acts and read their publication and commencement evidence; all law words were extracted mechanically from official PDF text layers. No OCR or generated law text.
